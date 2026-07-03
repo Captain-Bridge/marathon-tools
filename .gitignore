@@ -29,6 +29,9 @@ Thumbs.db
 # === deepseek 本地配置 ===
 .deepseek/
 
+# === 输入源文件（不应上传）===
+audio_cut/input/
+
 # === 输出目录 ===
 audio_cut/outputs/
 img_cut/output/
