@@ -1,0 +1,13 @@
+{
+  "name": "marathon-tools-news",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:marathon-news": "node src/fetchMarathonNews.js",
+    "fetch:marathon-news:zh-chs": "node src/fetchMarathonNewsZhChs.js",
+    "build:marathon-news:bilingual": "node src/buildBilingualMarathonNews.js",
+    "generate:marathon-news:all": "node src/generateMarathonNewsArtifacts.js",
+    "generate:myblog-news": "node src/generateMyblogNewsArtifacts.js"
+  }
+}

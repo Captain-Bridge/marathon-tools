@@ -1,0 +1,653 @@
+﻿source,target,occurrences,origin_count,origins,article_count,glossary_like,ambiguous,ambiguous_targets,recommended_strategy,recommended_for_yaml
+Cryo Archive,低温档案室,7,2,h3|strong,7,yes,no,低温档案室,force,yes
+Codex,百科,6,2,h1|h2,6,yes,no,百科,force,yes
+Armory,军械库,5,3,h1|h2|h3,5,yes,no,军械库,force,yes
+CyberAcme,赛博艾克米,4,2,h3|strong,4,yes,no,赛博艾克米,force,yes
+Outpost,前哨,4,2,h3|strong,4,yes,no,前哨,force,yes
+Cores,核心,3,2,h3|strong,3,yes,no,核心,force,yes
+Defender System,防御系统,3,1,strong,2,yes,no,防御系统,force,yes
+Dire Marsh (Night),恐怖沼泽（夜间）,3,1,strong,3,yes,no,恐怖沼泽（夜间）,force,yes
+Marathon Deluxe Edition,《失落星船：马拉松》豪华版,3,2,h3|strong,1,yes,no,《失落星船：马拉松》豪华版,force,yes
+Marathon Standard Edition,《失落星船：马拉松》标准版,3,2,h3|strong,1,yes,no,《失落星船：马拉松》标准版,force,yes
+NIGHTFALL,NIGHTFALL,3,1,strong,1,yes,no,NIGHTFALL,preserve,yes
+Overrun,奔袭,3,1,strong,3,yes,no,奔袭,force,yes
+Prey Tracker,猎物追踪器,3,1,strong,2,yes,no,猎物追踪器,force,yes
+Runner Shells,疾行者外壳,3,2,h2|h3,3,yes,no,疾行者外壳,force,yes
+Thief,盗贼,3,2,h3|strong,3,yes,no,盗贼,force,yes
+Bounty Hunter,赏金猎人,2,1,strong,2,yes,no,赏金猎人,force,yes
+BR33 Volley Rifle,BR33连发步枪,2,1,strong,2,yes,no,BR33连发步枪,force,yes
+Castle Doctrine,城堡原则,2,1,strong,2,yes,no,城堡原则,force,yes
+CE Tactical Sidearm,近战战术手枪,2,1,strong,2,yes,no,近战战术手枪,force,yes
+Chips,芯片,2,2,h3|strong,2,yes,no,芯片,force,yes
+Cloudborn,云裔,2,1,strong,2,yes,no,云裔,force,yes
+Codex Challenges,百科挑战,2,2,h3|strong,1,yes,no,百科挑战,force,yes
+Complex Control,综合设施控制区,2,2,h3|strong,1,yes,no,综合设施控制区,force,yes
+Contracts in the Cold... Plus Rewards,寒冷合约…还有奖励,2,2,h2|strong,1,yes,no,寒冷合约…还有奖励,force,yes
+Cradle Evolution System,摇篮进化系统,2,2,h3|strong,1,yes,no,摇篮进化系统,force,yes
+Cryo Archive Increased Availability,低温档案室开放频次提升,2,2,h3|strong,1,yes,no,低温档案室开放频次提升,force,yes
+Darkness Descends on Tau Ceti IV,暗夜降临天仓五IV,2,2,h2|strong,1,yes,no,暗夜降临天仓五IV,force,yes
+Dire Marsh and Night Marsh Availability,恐怖沼泽与夜间沼泽的开放机制,2,2,h3|strong,1,yes,no,恐怖沼泽与夜间沼泽的开放机制,force,yes
+Escalation in UESC Forces,UESC势力全面增兵,2,2,h3|strong,1,yes,no,UESC势力全面增兵,force,yes
+Experimental Queues and Duos Queue,实验队列与双人队列,2,2,h2|strong,1,yes,no,实验队列与双人队列,force,yes
+Faction Progression,阵营进度,2,2,h3|strong,1,yes,no,阵营进度,force,yes
+Faction Progression and Contracts,阵营进度与合约,2,2,h2|strong,1,yes,no,阵营进度与合约,force,yes
+Faction Progression Improvements,阵营进度优化,2,2,h3|strong,1,yes,no,阵营进度优化,force,yes
+In-Game Notices,游戏内通知,2,2,h2|strong,1,yes,no,游戏内通知,force,yes
+KKV-9SD,KKV-9SD,2,1,strong,2,yes,no,KKV-9SD,preserve,yes
+Marathon Launch FAQ,《失落星船：马拉松》发布常见问题解答,2,2,h2|strong,1,yes,no,《失落星船：马拉松》发布常见问题解答,force,yes
+MIDA,米达,2,2,h3|strong,2,yes,no,米达,force,yes
+Misriah 2442,米斯利亚2442,2,1,strong,2,yes,no,米斯利亚2442,force,yes
+NIGHTFALL is Coming,暮夜即将降临,2,2,h2|strong,1,yes,no,暮夜即将降临,force,yes
+NuCaloric,纽卡洛里,2,2,h3|strong,2,yes,no,纽卡洛里,force,yes
+Pistol,手枪,2,1,strong,1,yes,no,手枪,force,yes
+Pistols,手枪,2,2,h3|strong,2,yes,no,手枪,force,yes
+Precision Rifle,精密步枪,2,1,strong,1,yes,no,精密步枪,force,yes
+Precision Rifles,精密步枪,2,2,h3|strong,2,yes,no,精密步枪,force,yes
+Proximity Chat Toggle,近距离聊天切换,2,2,h3|strong,1,yes,no,近距离聊天切换,force,yes
+Ranked Rewards for Season 1,第1赛季的排名模式奖励,2,2,h3|strong,1,yes,no,第1赛季的排名模式奖励,force,yes
+Ranked Updates,排名模式更新,2,2,h2|strong,1,yes,no,排名模式更新,force,yes
+Rifle/SMG,步枪/冲锋枪,2,1,strong,1,yes,no,步枪/冲锋枪,force,yes
+Rifles,步枪,2,2,h3|strong,2,yes,no,步枪,force,yes
+Rook,鲁克,2,2,h3|strong,2,yes,no,鲁克,force,yes
+Runner Shells: Tools for Survival,疾行者外壳：生存工具,2,2,h1|strong,1,yes,no,疾行者外壳：生存工具,force,yes
+Runners and Implants,疾行者和植入物,2,2,h2|strong,1,yes,no,疾行者和植入物,force,yes
+Scoring and Contracts,Twitch掉落,2,2,h2|strong,1,yes,no,Twitch掉落,force,yes
+Seasons Overview,赛季概览,2,2,h2|strong,1,yes,no,赛季概览,force,yes
+Secure Sponsored Kits for Season 2,领取你的第2赛季专属赞助包,2,2,h3|strong,1,yes,no,领取你的第2赛季专属赞助包,force,yes
+Sekiguchi Genetics,关口基因,2,2,h3|strong,2,yes,no,关口基因,force,yes
+Signal Flares,信号弹,2,1,strong,2,yes,no,信号弹,force,yes
+Snare Mine,陷阱地雷,2,1,strong,2,yes,no,陷阱地雷,force,yes
+Social Media,社交媒体,2,2,h2|strong,1,yes,no,社交媒体,force,yes
+Spend in the C.A.R.R.I. Armory,在C.A.R.R.I.军械库中使用,2,2,h3|strong,1,yes,no,在C.A.R.R.I.军械库中使用,force,yes
+Sponsored Survival,赞助生存,2,1,strong,2,yes,no,赞助生存,force,yes
+Teams,团队,2,2,h2|strong,1,yes,no,团队,force,yes
+Twitch Sponsored Kit,Twitch赞助包,2,1,strong,2,yes,no,Twitch赞助包,force,yes
+UESC,UESC,2,1,h3,2,yes,no,UESC,preserve,yes
+Update 1.0.6 is Live,更新1.0.6已上线,2,2,h2|strong,1,yes,no,更新1.0.6已上线,force,yes
+Update 1.0.9 Balance Changes,更新1.0.9游戏平衡性调整,2,2,h3|strong,1,yes,no,更新1.0.9游戏平衡性调整,force,yes
+Vaults of the Marathon,马拉松号保险库,2,2,h2|strong,1,yes,no,马拉松号保险库,force,yes
+ViDoc Highlights,视频记录亮点,2,2,h1|strong,1,yes,no,视频记录亮点,force,yes
+Weapon Mods,武器模组,2,2,h2|strong,2,yes,no,武器模组,force,yes
+"Weapons, Mods, and Chips",武器、模组与芯片,2,2,h3|strong,1,yes,no,武器、模组与芯片,force,yes
+XBOX Series X|S,Xbox Series X|S,2,2,h3|strong,1,yes,no,Xbox Series X|S,preserve,yes
+Accu-Sight Lens (Thermals),精瞄镜片（热成像）,1,1,strong,1,yes,no,精瞄镜片（热成像）,force,yes
+Accu-Sight Optic,精瞄瞄具,1,1,strong,1,yes,no,精瞄瞄具,force,yes
+Air-Cooled Chamber,风冷弹膛,1,1,strong,1,yes,no,风冷弹膛,force,yes
+Alarmist,警报主义者,1,1,strong,1,yes,no,警报主义者,force,yes
+Alarmist Chip,警报主义者芯片,1,1,strong,1,yes,no,警报主义者芯片,force,yes
+AMMO,弹药,1,1,strong,1,yes,no,弹药,force,yes
+Amplify,增幅,1,1,strong,1,yes,no,增幅,force,yes
+ARMORY & BARTERING,军械库与交换,1,1,strong,1,yes,no,军械库与交换,force,yes
+Assault Shields (LMG Shield mods),突击护盾（轻机枪护盾模组）,1,1,strong,1,yes,no,突击护盾（轻机枪护盾模组）,force,yes
+Background Process,后台进程,1,1,strong,1,yes,no,后台进程,force,yes
+Balanced Belt,平衡弹链,1,1,strong,1,yes,no,平衡弹链,force,yes
+Balanced Mag,平衡弹匣,1,1,strong,1,yes,no,平衡弹匣,force,yes
+Balanced Payload,平衡弹头,1,1,strong,1,yes,no,平衡弹头,force,yes
+BFM,弹道枪械弹匣,1,1,strong,1,yes,no,弹道枪械弹匣,force,yes
+Biotoxic Disinjector,生物毒素分离注射器,1,1,strong,1,yes,no,生物毒素分离注射器,force,yes
+Blindside,制造盲点,1,1,strong,1,yes,no,制造盲点,force,yes
+Blue Blood,蓝血,1,1,strong,1,yes,no,蓝血,force,yes
+Brain Freeze,思维冻结,1,1,strong,1,yes,no,思维冻结,force,yes
+Brain Freeze Chip,思维冻结芯片,1,1,strong,1,yes,no,思维冻结芯片,force,yes
+BRRT,BRRT,1,1,strong,1,yes,no,BRRT,preserve,yes
+BUILDCRAFTING,配装,1,1,strong,1,yes,no,配装,force,yes
+Bully SMG,恶霸冲锋枪,1,1,strong,1,yes,no,恶霸冲锋枪,force,yes
+Bungie Rewards [1.20] Felini Plush,Bungie奖励[1.20]费利尼毛绒玩具,1,1,strong,1,yes,no,Bungie奖励[1.20]费利尼毛绒玩具,force,yes
+Bungie Rewards [1.20] Notorious T-Shirt,Bungie奖励[1.20]恶名远扬T恤,1,1,strong,1,yes,no,Bungie奖励[1.20]恶名远扬T恤,force,yes
+C.A.R.R.I Armory,C.A.R.R.I.军械库,1,1,h3,1,yes,no,C.A.R.R.I.军械库,force,yes
+C.A.R.R.I. Armory,C.A.R.R.I.军械库,1,1,strong,1,yes,no,C.A.R.R.I.军械库,force,yes
+Castle Doctrine (Passive):,城堡原则（被动技能）：,1,1,strong,1,yes,no,城堡原则（被动技能）：,force,yes
+Chaos Theory,混沌理论,1,1,strong,1,yes,no,混沌理论,force,yes
+Clear-Eyed Lens,清视镜片,1,1,strong,1,yes,no,清视镜片,force,yes
+Client Security,客户端安全,1,1,h3,1,yes,no,客户端安全,force,yes
+Cloudfeather Belt,云羽弹链,1,1,strong,1,yes,no,云羽弹链,force,yes
+Cloudfeather Chamber,云羽弹膛,1,1,strong,1,yes,no,云羽弹膛,force,yes
+Cold Vigilance Scope,冷峻警戒瞄准镜,1,1,strong,1,yes,no,冷峻警戒瞄准镜,force,yes
+COMBAT,战斗,1,1,strong,1,yes,no,战斗,force,yes
+Combat Mag,战斗弹匣,1,1,strong,1,yes,no,战斗弹匣,force,yes
+Compartmental Mag,分舱弹匣,1,1,strong,1,yes,no,分舱弹匣,force,yes
+Compression Chamber,压缩弹膛,1,1,strong,1,yes,no,压缩弹膛,force,yes
+Connection Recovery,连接恢复,1,1,h3,1,yes,no,连接恢复,force,yes
+Copperhead RF,铜斑蛇速射,1,1,strong,1,yes,no,铜斑蛇速射,force,yes
+Cradle,摇篮,1,1,strong,1,yes,no,摇篮,force,yes
+Cradle Evolution system,摇篮进化系统,1,1,strong,1,yes,no,摇篮进化系统,force,yes
+Customization,自定义,1,1,h3,1,yes,no,自定义,force,yes
+CyberAcme Commendations,赛博艾克米嘉奖,1,1,strong,1,yes,no,赛博艾克米嘉奖,force,yes
+D54 Battle Pistol,D54战斗手枪,1,1,strong,1,yes,no,D54战斗手枪,force,yes
+Darksight Scopes,暗视瞄准镜,1,1,strong,1,yes,no,暗视瞄准镜,force,yes
+DEATH IS THE FIRST STEP,死亡是第一步,1,1,strong,1,yes,no,死亡是第一步,force,yes
+Dedicated Server Networking,专用服务器网络,1,1,h3,1,yes,no,专用服务器网络,force,yes
+Defender System (Prime Ability):,防御系统（主要技能）：,1,1,strong,1,yes,no,防御系统（主要技能）：,force,yes
+Deluxe Arrival Cache (Blue),豪华欢迎储藏箱（蓝）,1,1,strong,1,yes,no,豪华欢迎储藏箱（蓝）,force,yes
+Destroyer,毁灭者,1,1,h3,1,yes,no,毁灭者,force,yes
+Dire Marsh (Day and Night),恐怖沼泽（白天和夜间）,1,1,strong,1,yes,no,恐怖沼泽（白天和夜间）,force,yes
+Dire Marsh (Day),恐怖沼泽（白天）,1,1,strong,1,yes,no,恐怖沼泽（白天）,force,yes
+Drum Mag,鼓式弹匣,1,1,strong,1,yes,no,鼓式弹匣,force,yes
+Duelist Lens (Thermals),决斗者镜片（热成像）,1,1,strong,1,yes,no,决斗者镜片（热成像）,force,yes
+Dynamo,动力核,1,1,strong,1,yes,no,动力核,force,yes
+Echo Pulse,回声脉冲,1,1,strong,1,yes,no,回声脉冲,force,yes
+Economic Security,经济安全,1,1,h3,1,yes,no,经济安全,force,yes
+Eminent Domain,征用权,1,1,strong,1,yes,no,征用权,force,yes
+Eminent Domain (Prestige):,征用权（尊享）：,1,1,strong,1,yes,no,征用权（尊享）：,force,yes
+Enhanced Arrival Cache (Green),强化欢迎储藏箱（绿）,1,1,strong,1,yes,no,强化欢迎储藏箱（绿）,force,yes
+Evasive Maneuvers,机动规避：,1,1,strong,1,yes,no,机动规避：,force,yes
+Exceptions: LUX and SILK,例外：奢享币和SILK,1,1,strong,1,yes,no,例外：奢享币和SILK,force,yes
+EXFIL,撤离,1,1,strong,1,yes,no,撤离,force,yes
+Extra Mag,增容弹匣,1,1,strong,1,yes,no,增容弹匣,force,yes
+Eyes On Fire,火眼金睛,1,1,strong,1,yes,no,火眼金睛,force,yes
+FACTIONS & CONTRACTS,阵营与合约,1,1,strong,1,yes,no,阵营与合约,force,yes
+Factions and progression,阵营与进度,1,1,strong,1,yes,no,阵营与进度,force,yes
+Far Reach Optic (Rangefinder),远程瞄具（测距仪）,1,1,strong,1,yes,no,远程瞄具（测距仪）,force,yes
+Fastload Mag,速填弹匣,1,1,strong,1,yes,no,速填弹匣,force,yes
+Feather Mag,羽毛弹匣,1,1,strong,1,yes,no,羽毛弹匣,force,yes
+FIRST STEPS,第一步,1,1,strong,1,yes,no,第一步,force,yes
+Flashlights,手电,1,1,strong,1,yes,no,手电,force,yes
+Frag Grenade,破片手雷,1,1,strong,1,yes,no,破片手雷,force,yes
+Frost Mine,冰霜地雷,1,1,strong,1,yes,no,冰霜地雷,force,yes
+Full-Auto Selector Prestige Mod,全自动切换器尊享模组,1,1,strong,1,yes,no,全自动切换器尊享模组,force,yes
+Gift 1 sub:,赠送订阅：,1,1,strong,1,yes,no,赠送订阅：,force,yes
+Gold III,黄金III,1,1,strong,1,yes,no,黄金III,force,yes
+Head,头盔,1,1,strong,1,yes,no,头盔,force,yes
+Heat Grenade,热量手雷,1,1,strong,1,yes,no,热量手雷,force,yes
+Hi-Cap Chamber,高容弹膛,1,1,strong,1,yes,no,高容弹膛,force,yes
+Hi-Cap Heat Sink,高容散热器,1,1,strong,1,yes,no,高容散热器,force,yes
+Hi-Cap Mag,高容弹匣,1,1,strong,1,yes,no,高容弹匣,force,yes
+Hi-Speed Mag,高速弹匣,1,1,strong,1,yes,no,高速弹匣,force,yes
+Hi-Velocity Payload,高速弹头,1,1,strong,1,yes,no,高速弹头,force,yes
+Hi-Zoom Optic,高缩放瞄具,1,1,strong,1,yes,no,高缩放瞄具,force,yes
+Hollow-Case Rounds,空心子弹,1,1,strong,1,yes,no,空心子弹,force,yes
+Immune Response,免疫反应,1,1,strong,1,yes,no,免疫反应,force,yes
+Impact HAR,冲击重型突击步枪,1,1,strong,1,yes,no,冲击重型突击步枪,force,yes
+Insurance Plan,保险计划,1,1,strong,1,yes,no,保险计划,force,yes
+Introduction to Marathon’s four zones (maps),马拉松的四个区域（地图）介绍,1,1,strong,1,yes,no,马拉松的四个区域（地图）介绍,force,yes
+Key Template Changes,钥匙模板机制调整,1,1,strong,1,yes,no,钥匙模板机制调整,force,yes
+Keyboard Warrior,键盘战士,1,1,strong,1,yes,no,键盘战士,force,yes
+Kills,档案徽标,1,1,strong,1,yes,no,档案徽标,force,yes
+LMG,轻机枪,1,1,strong,1,yes,no,轻机枪,force,yes
+LMG (Belts),轻机枪（弹链）,1,1,strong,1,yes,no,轻机枪（弹链）,force,yes
+Long Scope (Rangefinder),远程瞄准镜（测距仪）,1,1,strong,1,yes,no,远程瞄准镜（测距仪）,force,yes
+Lower,较低,1,1,strong,1,yes,no,较低,force,yes
+Magazines,弹匣,1,1,h3,1,yes,no,弹匣,force,yes
+Magnum MC,马格南巨级,1,1,strong,1,yes,no,马格南巨级,force,yes
+Map Events,地图活动,1,1,h3,1,yes,no,地图活动,force,yes
+Marathon,《失落星船：马拉松》,1,1,strong,1,yes,no,《失落星船：马拉松》,force,yes
+Marathon Development Team,《失落星船：马拉松》开发团队,1,1,strong,1,yes,no,《失落星船：马拉松》开发团队,force,yes
+Matchmaking,匹配,1,1,h3,1,yes,no,匹配,force,yes
+Med-Drone,医疗无人机,1,1,strong,1,yes,no,医疗无人机,force,yes
+Mega Belt,巨型弹链,1,1,strong,1,yes,no,巨型弹链,force,yes
+Mega Drive,巨型驱动,1,1,strong,1,yes,no,巨型驱动,force,yes
+Menu Navigation,菜单导航,1,1,h3,1,yes,no,菜单导航,force,yes
+MidSight Optic,中距瞄具,1,1,strong,1,yes,no,中距瞄具,force,yes
+Mini Jammer,迷你干扰器,1,1,strong,1,yes,no,迷你干扰器,force,yes
+MIPS Slug Converter Prestige mod,MIPS子弹转换器尊享模组,1,1,strong,1,yes,no,MIPS子弹转换器尊享模组,force,yes
+Neuro-Optic Lens (Variable Zoom),视神经镜片（可变倍率瞄具）,1,1,strong,1,yes,no,视神经镜片（可变倍率瞄具）,force,yes
+Night Marsh:,夜间沼泽：,1,1,strong,1,yes,no,夜间沼泽：,force,yes
+noculation Kit,接种套组,1,1,strong,1,yes,no,接种套组,force,yes
+Notorious Company,恶名团伙,1,1,strong,1,yes,no,恶名团伙,force,yes
+Null-Grav Chamber,零重力弹膛,1,1,strong,1,yes,no,零重力弹膛,force,yes
+Optic 1.4x,瞄具1.4x,1,1,strong,1,yes,no,瞄具1.4x,force,yes
+Optics,瞄准镜,1,1,h3,1,yes,no,瞄准镜,force,yes
+Optimal Prime,最优主导,1,1,strong,1,yes,no,最优主导,force,yes
+Oracle Lens,神谕镜片,1,1,strong,1,yes,no,神谕镜片,force,yes
+Overview,概览,1,1,h3,1,yes,no,概览,force,yes
+Pickpocket Drone,窃贼无人机,1,1,strong,1,yes,no,窃贼无人机,force,yes
+Pings,标记,1,1,strong,1,yes,no,标记,force,yes
+Prey Tracker (Trait Ability):,猎物追踪器（特性技能）：,1,1,strong,1,yes,no,猎物追踪器（特性技能）：,force,yes
+Priority Contracts,北京时间3月12日周四下午4点,1,1,strong,1,yes,no,北京时间3月12日周四下午4点,force,yes
+Profile Background,档案背景,1,1,strong,1,yes,no,档案背景,force,yes
+Profile Emblem,档案徽标,1,1,strong,1,yes,no,档案徽标,force,yes
+Railgun (Payload),电磁炮（弹头）,1,1,strong,1,yes,no,电磁炮（弹头）,force,yes
+Railguns,电磁炮,1,1,strong,1,yes,no,电磁炮,force,yes
+Rangefinder Lens (Rangefinder),测距仪透镜（测距仪）,1,1,strong,1,yes,no,测距仪透镜（测距仪）,force,yes
+Rangefinder Optic (Rangefinder),测距仪瞄具（测距仪）,1,1,strong,1,yes,no,测距仪瞄具（测距仪）,force,yes
+Rangefinder Optic 1.3x (Rangefinder),测距仪瞄具1.3x（测距仪）,1,1,strong,1,yes,no,测距仪瞄具1.3x（测距仪）,force,yes
+Ranked,排名模式,1,1,strong,1,yes,no,排名模式,force,yes
+Rarities and Chips,稀有度与芯片,1,1,strong,1,yes,no,稀有度与芯片,force,yes
+Recon,侦察,1,1,h3,1,yes,no,侦察,force,yes
+Reloader Mag,填装者弹匣,1,1,strong,1,yes,no,填装者弹匣,force,yes
+Renaissance Runner,复兴疾行者,1,1,strong,1,yes,no,复兴疾行者,force,yes
+Reversal,逆转回春,1,1,strong,1,yes,no,逆转回春,force,yes
+Reversal (Enhanced):,逆转回春（强化）：,1,1,strong,1,yes,no,逆转回春（强化）：,force,yes
+Reverse Card,反转卡,1,1,strong,1,yes,no,反转卡,force,yes
+Riot Barricade,防暴路障,1,1,strong,1,yes,no,防暴路障,force,yes
+Rook Update,鲁克调整更新,1,1,strong,1,yes,no,鲁克调整更新,force,yes
+Rorschach Test,墨迹测试,1,1,strong,1,yes,no,墨迹测试,force,yes
+Runner Shell – Assassin,疾行者外壳 – 刺客,1,1,strong,1,yes,no,疾行者外壳 – 刺客,force,yes
+Runner Shell – Destroyer,疾行者外壳 – 毁灭者,1,1,strong,1,yes,no,疾行者外壳 – 毁灭者,force,yes
+Runner Shell – Recon,疾行者外壳 – 侦察,1,1,strong,1,yes,no,疾行者外壳 – 侦察,force,yes
+Runner Shell – Thief,疾行者外壳 – 盗贼,1,1,strong,1,yes,no,疾行者外壳 – 盗贼,force,yes
+Runner Shell – Triage,疾行者外壳 – 救援,1,1,strong,1,yes,no,疾行者外壳 – 救援,force,yes
+Runner Shell – Vandal,疾行者外壳 – 暴徒,1,1,strong,1,yes,no,疾行者外壳 – 暴徒,force,yes
+Runner shells,疾行者外壳,1,1,strong,1,yes,no,疾行者外壳,force,yes
+Scavenger Mode – Rook,拾荒者模式 – 鲁克,1,1,strong,1,yes,no,拾荒者模式 – 鲁克,force,yes
+Scrapyard,废料场,1,1,strong,1,yes,no,废料场,force,yes
+Scrapyard Chip,废料场芯片,1,1,strong,1,yes,no,废料场芯片,force,yes
+See Ya,告别,1,1,strong,1,yes,no,告别,force,yes
+Sentinel,哨兵,1,1,strong,1,yes,no,哨兵,force,yes
+Shortwave Scout Optic (Thermals),短波侦察瞄具（热成像）,1,1,strong,1,yes,no,短波侦察瞄具（热成像）,force,yes
+Shotgun,霰弹枪,1,1,strong,1,yes,no,霰弹枪,force,yes
+Shotguns,霰弹枪,1,1,h3,1,yes,no,霰弹枪,force,yes
+Signal Jammer,信号干扰器,1,1,strong,1,yes,no,信号干扰器,force,yes
+Signal Mask,信号遮蔽,1,1,strong,1,yes,no,信号遮蔽,force,yes
+Slick Mag,顺滑弹匣,1,1,strong,1,yes,no,顺滑弹匣,force,yes
+SMGs,冲锋枪,1,1,strong,1,yes,no,冲锋枪,force,yes
+Snare Mine (Tactical Ability):,陷阱地雷（战术技能）：,1,1,strong,1,yes,no,陷阱地雷（战术技能）：,force,yes
+Snare Mines,陷阱地雷,1,1,strong,1,yes,no,陷阱地雷,force,yes
+Sniper,狙击枪,1,1,strong,1,yes,no,狙击枪,force,yes
+Snipers,狙击枪,1,1,strong,1,yes,no,狙击枪,force,yes
+Social,社交,1,1,h3,1,yes,no,社交,force,yes
+SP Scope (Thermal),狙击瞄准镜（热成像）,1,1,strong,1,yes,no,狙击瞄准镜（热成像）,force,yes
+Splash Guard,溅射防护,1,1,strong,1,yes,no,溅射防护,force,yes
+Stabilizing Mag,稳定弹匣,1,1,strong,1,yes,no,稳定弹匣,force,yes
+Stack Overflow,堆叠溢出,1,1,strong,1,yes,no,堆叠溢出,force,yes
+Standard Arrival Cache,标准欢迎储藏箱,1,1,strong,1,yes,no,标准欢迎储藏箱,force,yes
+Stay Together,团结,1,1,strong,1,yes,no,团结,force,yes
+Steady Mag,稳固弹匣,1,1,strong,1,yes,no,稳固弹匣,force,yes
+Steady Rounds,稳固子弹,1,1,strong,1,yes,no,稳固子弹,force,yes
+Submachine Guns,微型冲锋枪,1,1,h3,1,yes,no,微型冲锋枪,force,yes
+SURVIVAL,生存,1,1,strong,1,yes,no,生存,force,yes
+Tapered Heat Sink,锥形散热器,1,1,strong,1,yes,no,锥形散热器,force,yes
+The Cradle:,摇篮：,1,1,strong,1,yes,no,摇篮：,force,yes
+Thermal Optic (Thermals),热能瞄具（热成像）,1,1,strong,1,yes,no,热能瞄具（热成像）,force,yes
+Thermal Scopes,热成像瞄准镜,1,1,strong,1,yes,no,热成像瞄准镜,force,yes
+Thruster,推进器,1,1,strong,1,yes,no,推进器,force,yes
+Torso,躯干,1,1,strong,1,yes,no,躯干,force,yes
+Tox Injectors,毒素注射,1,1,strong,1,yes,no,毒素注射,force,yes
+Tracker Drone,追踪无人机,1,1,strong,1,yes,no,追踪无人机,force,yes
+Trailblazer Kit,开拓者套组,1,1,strong,1,yes,no,开拓者套组,force,yes
+TRAVERSAL,移动,1,1,strong,1,yes,no,移动,force,yes
+Traxus,特莱克斯,1,1,h3,1,yes,no,特莱克斯,force,yes
+Triage,救援,1,1,h3,1,yes,no,救援,force,yes
+Triage Cloaking Device,救援斗篷,1,1,strong,1,yes,no,救援斗篷,force,yes
+Trigger Discipline,扳机纪律,1,1,strong,1,yes,no,扳机纪律,force,yes
+Turbo Belt,涡轮弹链,1,1,strong,1,yes,no,涡轮弹链,force,yes
+Turbo Chamber,涡轮弹膛,1,1,strong,1,yes,no,涡轮弹膛,force,yes
+Turbo Drive,涡轮驱动,1,1,strong,1,yes,no,涡轮驱动,force,yes
+Twin Tap,双击,1,1,strong,1,yes,no,双击,force,yes
+TwinScope Optic (Variable),双镜瞄具（变体）,1,1,strong,1,yes,no,双镜瞄具（变体）,force,yes
+Twitch Drop Rewards,Twitch掉落奖励,1,1,strong,1,yes,no,Twitch掉落奖励,force,yes
+unique Codex rewards,独特的百科奖励,1,1,strong,1,yes,no,独特的百科奖励,force,yes
+V22 Volt Thrower,V22伏特放射器,1,1,strong,1,yes,no,V22伏特放射器,force,yes
+V66 Lookout,V66瞭望,1,1,strong,1,yes,no,V66瞭望,force,yes
+V75 SCAR,V75 SCAR,1,1,strong,1,yes,no,V75 SCAR,preserve,yes
+Vamprea,定制《失落星船：马拉松》夹克,1,1,strong,1,yes,no,定制《失落星船：马拉松》夹克,force,yes
+Vandal,暴徒,1,1,h3,1,yes,no,暴徒,force,yes
+Vault Breaker,破库者,1,1,strong,1,yes,no,破库者,force,yes
+Vector Grenade,矢量手雷,1,1,strong,1,yes,no,矢量手雷,force,yes
+Vector Rounds,矢量弹,1,1,strong,1,yes,no,矢量弹,force,yes
+Vigilant Lens,警戒镜片,1,1,strong,1,yes,no,警戒镜片,force,yes
+Volt Array (Volt Battery Ammo),伏特阵列（伏特电池弹药）,1,1,strong,1,yes,no,伏特阵列（伏特电池弹药）,force,yes
+Volt Cell (Fusion Ammo),伏特电芯（融合弹药）,1,1,strong,1,yes,no,伏特电芯（融合弹药）,force,yes
+Watch for 1 hour,观看1小时,1,1,strong,1,yes,no,观看1小时,force,yes
+Watch for 15 minutes:,观看15分钟：,1,1,strong,1,yes,no,观看15分钟：,force,yes
+Watch for 2 hours,观看2小时,1,1,strong,1,yes,no,观看2小时,force,yes
+Watch for 3 hours,观看3小时,1,1,strong,1,yes,no,观看3小时,force,yes
+Watch for 30 minutes,观看30分钟,1,1,strong,1,yes,no,观看30分钟,force,yes
+Weapon Ammo,武器弹药,1,1,strong,1,yes,no,武器弹药,force,yes
+Weapon Rewards,武器奖励,1,1,strong,1,yes,no,武器奖励,force,yes
+Weapon Skin,武器皮肤,1,1,strong,1,yes,no,武器皮肤,force,yes
+Weapon Skin (Style):,武器皮肤（风格）：,1,1,strong,1,yes,no,武器皮肤（风格）：,force,yes
+Weapon Sticker,武器贴纸,1,1,strong,1,yes,no,武器贴纸,force,yes
+Wellness Beacon,健康信标,1,1,strong,1,yes,no,健康信标,force,yes
+Wellness Beacon (Deluxe):,健康信标（豪华）：,1,1,strong,1,yes,no,健康信标（豪华）：,force,yes
+– Alarmist (all rarities),——警报主义者（所有稀有度）,1,1,strong,1,yes,no,——警报主义者（所有稀有度）,force,yes
+– Brain Freeze (Superior rarity only),——思维冻结（仅限卓越稀有度）,1,1,strong,1,yes,no,——思维冻结（仅限卓越稀有度）,force,yes
+– Buffer Overflow (all rarities),——缓存溢出（所有稀有度）,1,1,strong,1,yes,no,——缓存溢出（所有稀有度）,force,yes
+– D54 Battle Pistol,——D54战斗手枪,1,1,strong,1,yes,no,——D54战斗手枪,force,yes
+– Exterminator (all rarities),——灭绝者（所有稀有度）,1,1,strong,1,yes,no,——灭绝者（所有稀有度）,force,yes
+– Ghillie Suit (all rarities),——吉利服（所有稀有度）,1,1,strong,1,yes,no,——吉利服（所有稀有度）,force,yes
+– KKV-9SD,——KKV-9SD,1,1,strong,1,yes,no,——KKV-9SD,force,yes
+– Refocuser (all rarities),——重新聚焦（所有稀有度）,1,1,strong,1,yes,no,——重新聚焦（所有稀有度）,force,yes
+– Scrapyard (all rarities),——废料场（所有稀有度）,1,1,strong,1,yes,no,——废料场（所有稀有度）,force,yes
+– Urgent Care (all rarities),——紧急护理（所有稀有度）,1,1,strong,1,yes,no,——紧急护理（所有稀有度）,force,yes
+Developer Note:,开发者提示：,16,1,strong,4,no,no,开发者提示：,force,no
+Contracts,合约,13,4,h1|h2|h3|strong,12,no,no,合约,force,no
+New,全新,13,1,strong,1,no,no,全新,force,no
+Item Economy,物品经济,10,2,h1|h2,10,no,no,物品经济,force,no
+User Interface and Experience,用户界面和体验,9,2,h1|h2,9,no,no,用户界面和体验,force,no
+Implants,植入物,7,2,h3|strong,5,no,no,植入物,force,no
+Stability,稳定性,7,2,h1|h2,7,no,no,稳定性,force,no
+General,综合,6,2,h1|h2,6,no,no,综合,force,no
+Localization,本地化,6,2,h1|h2,6,no,no,本地化,force,no
+Runners,疾行者,5,3,h1|h2|h3,5,no,no,疾行者,force,no
+Equipment,装备,3,2,h1|h3,3,no,no,装备,force,no
+February 26 at 10 AM PT,北京时间2月27日凌晨2点,3,1,strong,2,no,no,北京时间2月27日凌晨2点,force,no
+March 2 at 10 AM PT,3月3日凌晨2点,3,1,strong,2,no,no,3月3日凌晨2点,force,no
+Season 2 Begins June 2,第2赛季将于6月3日正式开启,3,3,h2|strong|title,2,no,no,第2赛季将于6月3日正式开启,force,no
+Welcome to Cryo Archive,欢迎来到低温档案室,3,3,h2|strong|title,1,yes,no,欢迎来到低温档案室,force,no
+A Dangerous Climb,攀登天梯，危险相伴,2,2,h2|strong,1,no,no,攀登天梯，危险相伴,force,no
+Announcing Season 2 Twitch Drops,第2赛季Twitch掉落,2,2,h2|strong,1,yes,no,第2赛季Twitch掉落,force,no
+Announcing the voice cast of Marathon,揭晓《失落星船：马拉松》配音阵容,2,2,h1|strong,1,no,no,揭晓《失落星船：马拉松》配音阵容,force,no
+Behind the Curtain,幕后揭秘,2,2,h2|strong,1,no,no,幕后揭秘,force,no
+Catch-Up Bonuses for New Players,给新玩家的追赶福利,2,2,h3|strong,1,no,no,给新玩家的追赶福利,force,no
+Check This List Before the Reset,重置前请核对这份清单,2,2,h3|strong,1,no,no,重置前请核对这份清单,force,no
+Commendations and Rewards,嘉奖和奖励,2,2,h2|strong,1,no,no,嘉奖和奖励,force,no
+Complete your first mission:,完成你的第一个任务：,2,1,strong,2,no,no,完成你的第一个任务：,force,no
+Cores and Implants – What's the Difference?,核心和植入物 – 有何区别？,2,2,h1|strong,1,no,no,核心和植入物 – 有何区别？,force,no
+Cryo Archive Returns June 11,低温档案室于6月12日回归,2,2,h2|strong,1,no,no,低温档案室于6月12日回归,force,no
+Customize Your Playstyle,自定义你的游戏风格,2,2,h1|strong,1,yes,no,自定义你的游戏风格,force,no
+Depth and Context,背景与详解,2,2,h2|strong,1,no,no,背景与详解,force,no
+DEVELOPER NOTE,开发者提示,2,1,strong,1,no,no,开发者提示,force,no
+DEVELOPER NOTE:,开发者提示：,2,1,strong,2,no,no,开发者提示：,force,no
+Discord is the Hub,枢纽平台Discord,2,2,h2|strong,1,no,no,枢纽平台Discord,force,no
+"Discover, Adapt, Survive",探索、适应、生存,2,2,h2|strong,1,no,no,探索、适应、生存,force,no
+End of Season Update,赛季末更新,2,2,h2|strong,1,no,no,赛季末更新,force,no
+Equipment and Survival,装备和生存,2,2,h2|strong,1,no,no,装备和生存,force,no
+FIRST STEP,第一步,2,1,strong,1,yes,no,第一步,force,no
+Getting Off the Ship,离开飞船,2,2,h2|strong,1,no,no,离开飞船,force,no
+Getting on the Ship,登上飞船,2,2,h2|strong,1,no,no,登上飞船,force,no
+Going Dark,白衣夜行,2,1,strong,2,yes,no,白衣夜行,force,no
+Guaranteed Map Events and Keys,地图活动和钥匙掉落全面保底,2,2,h3|strong,1,no,no,地图活动和钥匙掉落全面保底,force,no
+How to earn Commendations,如何赢得嘉奖,2,2,h3|strong,1,no,no,如何赢得嘉奖,force,no
+Introducing Vault Breaker,全新模式“破库者”,2,2,h3|strong,1,yes,no,全新模式“破库者”,force,no
+Looking Ahead: Season 2 and Beyond,展望未来：第2赛季及未来内容,2,2,h2|strong,1,yes,no,展望未来：第2赛季及未来内容,force,no
+Marathon Launches on March 5,《失落星船：马拉松》将于3月6日发布,2,2,h2|strong,1,no,no,《失落星船：马拉松》将于3月6日发布,force,no
+Marathon Releases March 2026,《失落星船：马拉松》将于2026年3月发布,2,2,h1|strong,1,no,no,《失落星船：马拉松》将于2026年3月发布,force,no
+Marathon’s Open Play Week Begins June 2,《失落星船：马拉松》公开试玩周于6月3日开启,2,2,h2|strong,1,no,no,《失落星船：马拉松》公开试玩周于6月3日开启,force,no
+Mid-Season Begins July 21,赛季中期更新将于7月22日开启,2,2,h2|strong,1,no,no,赛季中期更新将于7月22日开启,force,no
+Mods,模组,2,2,h1|h2,2,no,no,模组,force,no
+Mods and Buildcrafting,模组与配装,2,2,h2|strong,1,no,no,模组与配装,force,no
+More to come!,更多消息，敬请期待！,2,2,h3|strong,1,no,no,更多消息，敬请期待！,force,no
+New Consumable: Mercy Kit,新消耗品:仁心包,2,2,h3|strong,1,yes,no,新消耗品:仁心包,force,no
+New Experimental Mode: Sponsored Survival,全新实验模式：赞助生存,2,2,h2|strong,1,yes,no,全新实验模式：赞助生存,force,no
+New Feature: Stay Together,全新特色：保持团结,2,2,h3|strong,1,no,no,全新特色：保持团结,force,no
+New gameplay trailer,全新游戏预告片,2,2,h1|strong,1,no,no,全新游戏预告片,force,no
+New Platform Cosmetics,全新平台专属装饰,2,2,h2|strong,1,yes,no,全新平台专属装饰,force,no
+New Runner Shell: Sentinel,新疾行者外壳：哨兵,2,2,h2|strong,1,yes,no,新疾行者外壳：哨兵,force,no
+New System: The Cradle,全新系统：摇篮,2,2,h2|strong,1,yes,no,全新系统：摇篮,force,no
+New Tools for Collaboration,新的协作工具,2,2,h2|strong,1,no,no,新的协作工具,force,no
+New Zone: Dire Marsh (Night),新区域：恐怖沼泽（夜间）,2,2,h2|strong,1,yes,no,新区域：恐怖沼泽（夜间）,force,no
+New –,全新——,2,1,strong,1,no,no,全新——,force,no
+Open Play Week Begins June 2,公开试玩周于6月3日开启,2,2,h2|strong,1,no,no,公开试玩周于6月3日开启,force,no
+Out With A Bang,轰动完结,2,2,h2|strong,1,no,no,轰动完结,force,no
+PlayStation 5,PlayStation 5,2,2,h3|strong,1,yes,no,PlayStation 5,preserve,no
+Pre-orders are available now,现已开放预购。,2,2,h1|strong,1,no,no,现已开放预购。,force,no
+Prepare for the Reset,提前做好赛季重置准备,2,2,h2|strong,1,no,no,提前做好赛季重置准备,force,no
+Progression,进度,2,2,h1|h3,2,no,no,进度,force,no
+Quality of Life Updates,游戏体验更新,2,2,h2|strong,1,no,no,游戏体验更新,force,no
+Reach Runner Level 10:,达到疾行者等级10：,2,1,strong,2,yes,no,达到疾行者等级10：,force,no
+Reach Runner Level 30:,达到疾行者等级30：,2,1,strong,2,yes,no,达到疾行者等级30：,force,no
+Redeem Those Item Rewards!,务必及时领取各类物品奖励！,2,2,h3|strong,1,no,no,务必及时领取各类物品奖励！,force,no
+Sandbox Updates and New Gear,沙盒更新与全新装备,2,2,h2|strong,1,no,no,沙盒更新与全新装备,force,no
+Season 3 Begins September 22,第3赛季将于9月23日开启,2,2,h2|strong,1,no,no,第3赛季将于9月23日开启,force,no
+Security Clearance: Earn Your Way Through,安全权限：沿途斩获,2,2,h2|strong,1,no,no,安全权限：沿途斩获,force,no
+Service and Status,服务与状态,2,2,h2|strong,1,no,no,服务与状态,force,no
+Steam,Steam,2,2,h3|strong,1,yes,no,Steam,preserve,no
+Tau Ceti awaits,天仓五在等待着你,2,2,h1|strong,1,no,no,天仓五在等待着你,force,no
+The Start of a Journey Together,共同旅程的起点,2,2,h2|strong,1,no,no,共同旅程的起点,force,no
+Weapon Sticker:,武器贴纸：,2,1,strong,1,no,no,武器贴纸：,force,no
+Weapons and Sandbox,武器和沙盒,2,2,h2|strong,1,no,no,武器和沙盒,force,no
+What to do Today,今日行动指南,2,2,h2|strong,1,no,no,今日行动指南,force,no
+What’s in Season 1?,第1赛季内容,2,2,h2|strong,1,yes,no,第1赛季内容,force,no
+What’s Next for Marathon?,《失落星船：马拉松》的下一步是什么？,2,2,h1|strong,1,no,no,《失落星船：马拉松》的下一步是什么？,force,no
+When the Timer Hits Zero,倒计时归零,2,2,h2|strong,1,no,no,倒计时归零,force,no
+Where to Follow,关注渠道,2,2,h2|strong,1,no,no,关注渠道,force,no
+#dev-updates,#dev-updates,1,1,strong,1,no,no,#dev-updates,preserve,no
+#marathon-community-art-chat,#marathon-community-art-chat,1,1,strong,1,no,no,#marathon-community-art-chat,preserve,no
+#marathon-news,#marathon-news,1,1,strong,1,no,no,#marathon-news,preserve,no
+#server-status,#server-status,1,1,strong,1,no,no,#server-status,preserve,no
+(Style),（风格）,1,1,strong,1,yes,no,（风格）,force,no
++ 7 more!,+7个！,1,1,strong,1,yes,no,+7个！,force,no
+a reimagining of and a direct successor to the original games,既是对经典的颠覆重构，也是系列的正统精神续作,1,1,strong,1,no,no,既是对经典的颠覆重构，也是系列的正统精神续作,force,no
+across seasons,各个赛季,1,1,strong,1,no,no,各个赛季,force,no
+Affected by the Season Reset,赛季重置清空内容,1,1,strong,1,no,no,赛季重置清空内容,force,no
+Analytics & Detections,分析与检测,1,1,h3,1,no,no,分析与检测,force,no
+and fantasy of Marathon,及幻想,1,1,strong,1,no,no,及幻想,force,no
+Andrew Witts,Andrew Witts,1,1,strong,1,yes,no,Andrew Witts,preserve,no
+Andy Salisbury,Andy Salisbury,1,1,strong,1,yes,no,Andy Salisbury,preserve,no
+Announcing New Bungie Rewards,官宣全新BUNGIE奖励,1,1,h1,1,yes,no,官宣全新BUNGIE奖励,force,no
+Assassin’s,刺客,1,1,strong,1,no,no,刺客,force,no
+"At launch, Marathon features the voices of...",在游戏上线时，《失落星船：马拉松》的献声阵容包括…,1,1,strong,1,no,no,在游戏上线时，《失落星船：马拉松》的献声阵容包括…,force,no
+Audio,音频,1,1,h2,1,yes,no,音频,force,no
+Biotoxin Disinjector:,生物毒素分离注射器：,1,1,strong,1,no,no,生物毒素分离注射器：,force,no
+Bronze I,青铜I,1,1,strong,1,no,no,青铜I,force,no
+BungieServerStatus,BungieServerStatus,1,1,strong,1,yes,no,BungieServerStatus,preserve,no
+Can I pre-load Marathon?,可以预载吗？,1,1,h3,1,no,no,可以预载吗？,force,no
+Can I preload for Server Slam?,服务器压力测试可以预载吗？,1,1,h3,1,no,no,服务器压力测试可以预载吗？,force,no
+cannot,无法,1,1,strong,1,no,no,无法,force,no
+Carve a new path through Tau Ceti IV,在天仓五IV开辟全新道路,1,1,h1,1,yes,no,在天仓五IV开辟全新道路,force,no
+Check out fun stats from the Slam and get ready for the real deal on March 5.,查看压力测试的有趣统计数据，准备迎接3月6日游戏正式上线。,1,1,subtitle,1,no,no,查看压力测试的有趣统计数据，准备迎接3月6日游戏正式上线。,force,no
+cinematic short,过场动画短片,1,1,strong,1,no,no,过场动画短片,force,no
+Close to you:,触手可及：,1,1,strong,1,no,no,触手可及：,force,no
+Closed Alpha Test runs from April 23 to May 4,首次封闭测试将于4月24日至5月5日进行,1,1,strong,1,no,no,首次封闭测试将于4月24日至5月5日进行,force,no
+Combatants,战斗人员,1,1,h1,1,yes,no,战斗人员,force,no
+Combatants and Hazards,战斗人员与环境危害,1,1,h1,1,no,no,战斗人员与环境危害,force,no
+Come on and Jam,一起挤爆服务器吧,1,1,h1,1,no,no,一起挤爆服务器吧,force,no
+Common Enemy:,共同敌人：,1,1,strong,1,no,no,共同敌人：,force,no
+Contracts and Events,合约和活动,1,1,h2,1,yes,no,合约和活动,force,no
+"CORRECTION, updated at 7:59AM PT on 5/19/2026",更正，北京时间2026年5月19日晚上10点59分更新,1,1,strong,1,no,no,更正，北京时间2026年5月19日晚上10点59分更新,force,no
+"Cryo, Ranked, and More Experimental Queues – oh my!",低温档案室、排名模式以及更多实验队列——精彩还远未结束！,1,1,h1,1,no,no,低温档案室、排名模式以及更多实验队列——精彩还远未结束！,force,no
+custom Marathon jacket,Vamprea,1,1,strong,1,no,no,Vamprea,force,no
+Darksight scopes,暗视瞄准镜,1,1,strong,1,no,no,暗视瞄准镜,force,no
+deeper dive into Marathon’s gameplay,更深入地了解《Marathon》,1,1,strong,1,no,no,更深入地了解《Marathon》,force,no
+Design:,设计：,1,1,strong,1,no,no,设计：,force,no
+Dev Insights: Runner Shells – New Video,开发者见解：疾行者外壳 – 新视频,1,1,title,1,yes,no,开发者见解：疾行者外壳 – 新视频,force,no
+Dev Note:,开发者说明：,1,1,strong,1,no,no,开发者说明：,force,no
+Developer Note,开发者提示,1,1,strong,1,no,no,开发者提示,force,no
+Diamond I,钻石I,1,1,strong,1,no,no,钻石I,force,no
+Divebomb:,俯冲轰炸：,1,1,strong,1,no,no,俯冲轰炸：,force,no
+Do I need to download the game again if I played the Server Slam?,我参与过服务器压力测试，还需要重新下载吗？,1,1,h3,1,no,no,我参与过服务器压力测试，还需要重新下载吗？,force,no
+Does my Server Slam progression carry over to launch?,我在服务器压力测试的进度会继承到正式版吗？,1,1,h3,1,no,no,我在服务器压力测试的进度会继承到正式版吗？,force,no
+Duck and Cover,卧倒掩护,1,1,strong,1,no,no,卧倒掩护,force,no
+Everything you need to know about the end of Season 1 and seasonal resets,第1赛季收官以及赛季重置的全部须知事项,1,1,subtitle,1,no,no,第1赛季收官以及赛季重置的全部须知事项,force,no
+Exit Buddy:,撤离伙伴：,1,1,strong,1,no,no,撤离伙伴：,force,no
+"Expanse, Repeater HPR Weapon Style (Pinnacle I)",广域，连击者重型精密步枪武器风格（至臻I）,1,1,strong,1,yes,no,广域，连击者重型精密步枪武器风格（至臻I）,force,no
+experimental queue,实验队列,1,1,strong,1,no,no,实验队列,force,no
+Factions,阵营,1,1,h2,1,yes,no,阵营,force,no
+fairly small playtest,体量相当小的游戏测试,1,1,strong,1,no,no,体量相当小的游戏测试,force,no
+favorite moments,内测交流会的创作者笔记,1,1,strong,1,no,no,内测交流会的创作者笔记,force,no
+Fight Club:,搏击俱乐部：,1,1,strong,1,no,no,搏击俱乐部：,force,no
+Focus and Feedback,重点与反馈,1,1,subtitle,1,no,no,重点与反馈,force,no
+Fog of War,战争迷雾,1,1,h3,1,no,no,战争迷雾,force,no
+folding stock mod,折叠枪托模组,1,1,strong,1,no,no,折叠枪托模组,force,no
+Folding stocks,折叠枪托,1,1,strong,1,no,no,折叠枪托,force,no
+free for all players to access or earn,玩家均可免费体验或获取,1,1,strong,1,no,no,玩家均可免费体验或获取,force,no
+from the creator alpha summit,高光时刻,1,1,strong,1,no,no,高光时刻,force,no
+"Gameplay Reveal Showcase: Trailers, Cinematics & More",实机玩法即将揭晓，请看视频：预告片、游戏内过场动画……还有更多,1,1,title,1,no,no,实机玩法即将揭晓，请看视频：预告片、游戏内过场动画……还有更多,force,no
+"Gear up, grab your crew, and fight your way through the UESC Marathon.",整装待发，召集队伍，在UESC马拉松号中杀出重围。,1,1,subtitle,1,no,no,整装待发，召集队伍，在UESC马拉松号中杀出重围。,force,no
+"Glacial Impact, Destroyer Shell Style (Gold III)",冰川冲击，毁灭者外壳风格（黄金III）,1,1,strong,1,yes,no,冰川冲击，毁灭者外壳风格（黄金III）,force,no
+"Glacial Strafe, Bully SMG Weapon Style (Diamond I)",冰川扫射，恶霸冲锋枪武器风格（钻石I）,1,1,strong,1,yes,no,冰川扫射，恶霸冲锋枪武器风格（钻石I）,force,no
+Go behind-the-scenes for the making of Marathon’s music.,深入了解《失落星船：马拉松》音乐的幕后制作过程。,1,1,subtitle,1,no,no,深入了解《失落星船：马拉松》音乐的幕后制作过程。,force,no
+Gold I,黄金I,1,1,strong,1,no,no,黄金I,force,no
+Group Therapy:,团体治疗：,1,1,strong,1,no,no,团体治疗：,force,no
+grow your power,提升能量底线,1,1,strong,1,no,no,提升能量底线,force,no
+Herd Immunity:,群体免疫：,1,1,strong,1,no,no,群体免疫：,force,no
+High accuracy:,高度准确：,1,1,strong,1,no,no,高度准确：,force,no
+How do I claim my platform's weapon charms? What are they?,如何领取各平台专属武器挂件？有哪些挂件？,1,1,h3,1,no,no,如何领取各平台专属武器挂件？有哪些挂件？,force,no
+How do I get help or report an issue?,如何获取帮助或反馈问题？,1,1,h3,1,no,no,如何获取帮助或反馈问题？,force,no
+How do seasons work? Where can I see what’s coming next?,赛季是如何运作的？后续内容在哪里查看？,1,1,h3,1,no,no,赛季是如何运作的？后续内容在哪里查看？,force,no
+I played the Server Slam. When will I get my rewards and do they expire?,我参与过服务器压力测试。奖励何时发放？会过期吗？,1,1,h3,1,no,no,我参与过服务器压力测试。奖励何时发放？会过期吗？,force,no
+implants,植入物,1,1,strong,1,no,no,植入物,force,no
+"Improved visual fidelity and immersion, including...",提升了视觉效果和沉浸感，包括…,1,1,strong,1,no,no,提升了视觉效果和沉浸感，包括…,force,no
+Intensity:,难度：,1,1,strong,1,no,no,难度：,force,no
+Introducing C.A.R.R.I. - CyberAcme’s New Protocol,隆重推出赛博艾克米新协议——C.A.R.R.I.,1,1,title,1,no,no,隆重推出赛博艾克米新协议——C.A.R.R.I.,force,no
+"Introducing Marathon, aka the Gameplay Reveal Trailer",介绍《Marathon》，也就是实机玩法曝光预告片,1,1,h2,1,no,no,介绍《Marathon》，也就是实机玩法曝光预告片,force,no
+Introducing NuCaloric Contract,介绍纽卡洛里合约,1,1,strong,1,yes,no,介绍纽卡洛里合约,force,no
+Introducing Seasons in Marathon,《失落星船：马拉松》赛季介绍,1,1,title,1,no,no,《失落星船：马拉松》赛季介绍,force,no
+Introducing Traxus Contract,介绍特莱克斯合约,1,1,strong,1,yes,no,介绍特莱克斯合约,force,no
+Is cross-play and cross-save supported?,是否支持跨平台联机和跨平台保存？,1,1,h3,1,no,no,是否支持跨平台联机和跨平台保存？,force,no
+Is this the full game?,游戏内容完整吗？,1,1,h3,1,no,no,游戏内容完整吗？,force,no
+Joe Ziegler,Joe Ziegler,1,1,strong,1,yes,no,Joe Ziegler,preserve,no
+Join Us For The Slam,观加入我们的服务器压力测试,1,1,h2,1,yes,no,观加入我们的服务器压力测试,force,no
+Joseph Cross,Joseph Cross,1,1,strong,1,yes,no,Joseph Cross,preserve,no
+June 14,6月15日,1,1,strong,1,no,no,6月15日,force,no
+Just want the highlights?,还是说你只想要亮点？,1,1,strong,1,no,no,还是说你只想要亮点？,force,no
+keep up with the latest news,第一时间获取资讯,1,1,strong,1,no,no,第一时间获取资讯,force,no
+Lars Bakken,Lars Bakken,1,1,strong,1,yes,no,Lars Bakken,preserve,no
+launch content,正式版发布内容,1,1,strong,1,no,no,正式版发布内容,force,no
+Launch Day Bonuses For Server Slammers,为参与服务器压力测试的玩家准备的发布日奖励,1,1,h2,1,yes,no,为参与服务器压力测试的玩家准备的发布日奖励,force,no
+Learn how seasons work in Marathon plus what’s planned for Season 1 and beyond,了解《失落星船：马拉松》的赛季机制，以及第1赛季及后续计划,1,1,subtitle,1,no,no,了解《失落星船：马拉松》的赛季机制，以及第1赛季及后续计划,force,no
+Learn more in the Gameplay Overview video,在游戏玩法概览视频中了解更多信息,1,1,h2,1,no,no,在游戏玩法概览视频中了解更多信息,force,no
+Loot and customization,战利品和自定义,1,1,strong,1,no,no,战利品和自定义,force,no
+Low latency:,快速响应：,1,1,strong,1,no,no,快速响应：,force,no
+Marathon Bundle - Emerald Impact,《失落星船：马拉松》组合包——翡翠冲击,1,1,strong,1,no,no,《失落星船：马拉松》组合包——翡翠冲击,force,no
+Marathon Collector’s Edition – Available Now,《失落星船：马拉松》典藏版——现已推出,1,1,title,1,yes,no,《失落星船：马拉松》典藏版——现已推出,force,no
+Marathon Community Comms: Where To Find Us,《失落星船：马拉松》社区通讯：官方渠道,1,1,title,1,no,no,《失落星船：马拉松》社区通讯：官方渠道,force,no
+Marathon Development Update,《失落星船：马拉松》开发更新,1,1,title,1,yes,no,《失落星船：马拉松》开发更新,force,no
+Marathon Digital Bundle for PlayStation®Plus - Null Tempest,PlayStation®Plus《失落星船：马拉松》数字组合包——零域风暴,1,1,strong,1,no,no,PlayStation®Plus《失落星船：马拉松》数字组合包——零域风暴,force,no
+Marathon Key Dates,《失落星船：马拉松》关键日期,1,1,title,1,yes,no,《失落星船：马拉松》关键日期,force,no
+"Marathon launches on September 23, 2025",游戏将于2025年9月24日正式发售,1,1,strong,1,no,no,游戏将于2025年9月24日正式发售,force,no
+Marathon Launches Tomorrow,《失落星船：马拉松》明日发布,1,1,title,1,yes,no,《失落星船：马拉松》明日发布,force,no
+Marathon OST is Streaming Now,《失落星船：马拉松》原声带现已在流媒体平台上线,1,1,title,1,yes,no,《失落星船：马拉松》原声带现已在流媒体平台上线,force,no
+"Marathon Releases March 5, 2026: New Trailer & More",《失落星船：马拉松》2026年3月6日发布：全新预告片与更多内容,1,1,title,1,no,no,《失落星船：马拉松》2026年3月6日发布：全新预告片与更多内容,force,no
+Marathon releases on March 5,《失落星船：马拉松》将于3月6日发布,1,1,h1,1,no,no,《失落星船：马拉松》将于3月6日发布,force,no
+Marathon Starter Tips,《失落星船：马拉松》新手攻略,1,1,title,1,yes,no,《失落星船：马拉松》新手攻略,force,no
+Marathon Steam Bundle - Spectral Mist,《失落星船：马拉松》Steam组合包——幽灵迷雾,1,1,strong,1,no,no,《失落星船：马拉松》Steam组合包——幽灵迷雾,force,no
+Marathon Update 1.0.0.4,《失落星船：马拉松》更新1.0.0.4,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.0.4,force,no
+Marathon Update 1.0.5,《失落星船：马拉松》更新1.0.5,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.5,force,no
+Marathon Update 1.0.5.1,更新1.0.5.1,1,1,title,1,yes,no,更新1.0.5.1,force,no
+Marathon Update 1.0.5.2,《失落星船：马拉松》更新1.0.5.2,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.5.2,force,no
+Marathon Update 1.0.5.3,《失落星船：马拉松》更新1.0.5.3,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.5.3,force,no
+Marathon Update 1.0.6,《失落星船：马拉松》更新1.0.6,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.6,force,no
+Marathon Update 1.0.6.1,《失落星船：马拉松》更新1.0.6.1,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.6.1,force,no
+Marathon Update 1.0.6.2,《失落星船：马拉松》更新1.0.6.2,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.6.2,force,no
+Marathon Update 1.0.6.3,《失落星船：马拉松》更新1.0.6.3,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.6.3,force,no
+Marathon Update 1.0.9,《失落星船：马拉松》更新1.0.9,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.9,force,no
+Marathon Update 1.0.9.1,《失落星船：马拉松》更新1.0.9.1,1,1,title,1,yes,no,《失落星船：马拉松》更新1.0.9.1,force,no
+Marathon Update 1.1.0,《失落星船：马拉松》更新1.1.0,1,1,title,1,yes,no,《失落星船：马拉松》更新1.1.0,force,no
+Marathon Update 1.1.0.1,《失落星船：马拉松》更新1.1.0.1,1,1,title,1,yes,no,《失落星船：马拉松》更新1.1.0.1,force,no
+Marathon Update 1.1.0.2,《失落星船：马拉松》更新1.1.0.2,1,1,title,1,yes,no,《失落星船：马拉松》更新1.1.0.2,force,no
+Marathon Update 1.1.0.3,《失落星船：马拉松》更新1.1.0.3,1,1,title,1,yes,no,《失落星船：马拉松》更新1.1.0.3,force,no
+Marathon's Server Slam Is Almost Here,《失落星船：马拉松》服务器压力测试即将开启,1,1,title,1,yes,no,《失落星船：马拉松》服务器压力测试即将开启,force,no
+Marathon: Networking and Security,《失落星船：马拉松》：网络与安全,1,1,title,1,no,no,《失落星船：马拉松》：网络与安全,force,no
+Marathon’s Server Slam Begins February 26,《失落星船：马拉松》服务器压力测试将于2月27日开启,1,1,title,1,no,no,《失落星船：马拉松》服务器压力测试将于2月27日开启,force,no
+"March 5, 2026",2026年3月6日,1,1,strong,1,no,no,2026年3月6日,force,no
+March 9 at 10 AM PT,3月10日凌晨2点,1,1,strong,1,no,no,3月10日凌晨2点,force,no
+master survival,掌握生存技巧,1,1,strong,1,no,no,掌握生存技巧,force,no
+Music of Marathon — Dev Insights Video,《失落星船：马拉松》音乐——开发者见解视频,1,1,title,1,no,no,《失落星船：马拉松》音乐——开发者见解视频,force,no
+"new content,",新内容,1,1,strong,1,no,no,新内容,force,no
+New enemies:,新敌人：,1,1,strong,1,no,no,新敌人：,force,no
+New experimental queue: Sponsored Survival,全新实验队列：赞助生存,1,1,h1,1,no,no,全新实验队列：赞助生存,force,no
+"New features since alpha, including...",自Alpha测试以来的新功能，包括…,1,1,strong,1,no,no,自Alpha测试以来的新功能，包括…,force,no
+new mysteries and stories,新谜团与故事篇章,1,1,strong,1,no,no,新谜团与故事篇章,force,no
+new systems,全新系统,1,1,strong,1,no,no,全新系统,force,no
+New Way to Find Keys,全新钥匙获取渠道开放,1,1,strong,1,no,no,全新钥匙获取渠道开放,force,no
+New weapons,全新武器,1,1,strong,1,no,no,全新武器,force,no
+New – Dire Marsh (Night),全新 ——恐怖沼泽（夜间）,1,1,h3,1,yes,no,全新 ——恐怖沼泽（夜间）,force,no
+NEW: Warden Hunt,新：追猎看守者,1,1,h1,1,yes,no,新：追猎看守者,force,no
+Not Affected by the Season Reset,不受赛季重置影响的内容,1,1,strong,1,no,no,不受赛季重置影响的内容,force,no
+Note that regular Cryo will not be available at the same time as Ranked Cryo.,需要注意的是，低温档案室排名模式开启期间，普通模式将暂时关闭。,1,1,strong,1,no,no,需要注意的是，低温档案室排名模式开启期间，普通模式将暂时关闭。,force,no
+One final surprise... A visit to Tau Ceti in the Cinematic Short,最后一个惊喜……短片中的天仓五之旅,1,1,h2,1,no,no,最后一个惊喜……短片中的天仓五之旅,force,no
+Open Play Week: June 2 - June 9,公开试玩周6月3日 - 6月10日,1,1,title,1,no,no,公开试玩周6月3日 - 6月10日,force,no
+open preview weekend,公开试玩周末,1,1,strong,1,no,no,公开试玩周末,force,no
+options available to you,可能的选择,1,1,strong,1,no,no,可能的选择,force,no
+Our Commitment to Ongoing Service,我们对持续服务的承诺,1,1,h3,1,no,no,我们对持续服务的承诺,force,no
+Pinnacle I,至臻I,1,1,strong,1,no,no,至臻I,force,no
+Platinum I,白金I,1,1,strong,1,no,no,白金I,force,no
+Play the full game now until June 9 during our Open Play Week!,在本次公开试玩周，你可以畅玩完整游戏内容，活动持续至6月10日！,1,1,strong,1,no,no,在本次公开试玩周，你可以畅玩完整游戏内容，活动持续至6月10日！,force,no
+"Play the Slam, Earn Rewards for Launch",参与服务器压力测试，赢取发布奖励！,1,1,h1,1,no,no,参与服务器压力测试，赢取发布奖励！,force,no
+PlayStation Plus Weapon Charms,PlayStation Plus武器挂件,1,1,h1,1,yes,no,PlayStation Plus武器挂件,force,no
+Playstyle:,游戏风格：,1,1,strong,1,no,no,游戏风格：,force,no
+Pocket Change:,残弹回收：,1,1,strong,1,no,no,残弹回收：,force,no
+Prepare to be prepared.,未雨绸缪，有备无患。,1,1,subtitle,1,no,no,未雨绸缪，有备无患。,force,no
+Prepare to go bump in the night.,准备好在黑夜中迎接未知的恐怖。,1,1,subtitle,1,no,no,准备好在黑夜中迎接未知的恐怖。,force,no
+Profile Background:,档案背景：,1,1,strong,1,no,no,档案背景：,force,no
+Profile Emblem:,档案徽标：,1,1,strong,1,no,no,档案徽标：,force,no
+progress throughout a season,推动赛季进度,1,1,strong,1,no,no,推动赛季进度,force,no
+raising your power floor,提升你的能量底线,1,1,strong,1,no,no,提升你的能量底线,force,no
+Ranked mode,排名模式,1,1,strong,1,no,no,排名模式,force,no
+Ready for your first look at Marathon? 👀,准备好获取《Marathon》的第一手资讯了吗？,1,1,subtitle,1,no,no,准备好获取《Marathon》的第一手资讯了吗？,force,no
+Rewards Pass and Store,奖励通票和商店,1,1,h2,1,no,no,奖励通票和商店,force,no
+Rewards Passes do not reset,奖励通票不会重置,1,1,strong,1,no,no,奖励通票不会重置,force,no
+Run Clips,疾行剪辑,1,1,h2,1,yes,no,疾行剪辑,force,no
+Runner Shell Rundown,疾行者外壳总结,1,1,h1,1,yes,no,疾行者外壳总结,force,no
+"Saturday, March 14 at 11 AM PT",北京时间3月15日（周日）凌晨2点,1,1,strong,1,no,no,北京时间3月15日（周日）凌晨2点,force,no
+Scoring format:,北京时间3月15日（周日）凌晨2点至早上7点,1,1,strong,1,no,no,北京时间3月15日（周日）凌晨2点至早上7点,force,no
+Season 2 Combat Tuning Preview,第2赛季战斗调整预览,1,1,title,1,yes,no,第2赛季战斗调整预览,force,no
+Season 2 is Now Live,第2赛季现已上线,1,1,title,1,yes,no,第2赛季现已上线,force,no
+"Season 2, fresh for you",第2赛季，为你焕然一新,1,1,h1,1,yes,no,第2赛季，为你焕然一新,force,no
+See real-life gameplay in the Creator Highlights video,在创作者集锦中观看实机演示,1,1,h2,1,no,no,在创作者集锦中观看实机演示,force,no
+Sentinel:,哨兵：,1,1,strong,1,no,no,哨兵：,force,no
+Server Slam FAQ,服务器压力测试常见问题解答,1,1,h2,1,yes,no,服务器压力测试常见问题解答,force,no
+Shells,外壳,1,1,h1,1,yes,no,外壳,force,no
+Silver I,白银I,1,1,strong,1,no,no,白银I,force,no
+solo play only,单人模式限定,1,1,strong,1,no,no,单人模式限定,force,no
+Team Aztecross,Team Aztecross,1,1,strong,1,yes,no,Team Aztecross,preserve,no
+Team Bearki,Team Bearki,1,1,strong,1,yes,no,Team Bearki,preserve,no
+Team BurntPeanut,Team BurntPeanut,1,1,strong,1,yes,no,Team BurntPeanut,preserve,no
+Team Joueur_du_Grenier,Team Jour_du_Grenier,1,1,strong,1,no,no,Team Jour_du_Grenier,force,no
+Team Rubius,Team Rubius,1,1,strong,1,yes,no,Team Rubius,preserve,no
+Team Shroud,Team Shroud,1,1,strong,1,yes,no,Team Shroud,preserve,no
+Thanks for playing in the Server Slam!,感谢参与服务器压力测试,1,1,title,1,no,no,感谢参与服务器压力测试,force,no
+The forever war against cheaters.,与作弊者之间的永恒斗争。,1,1,subtitle,1,no,no,与作弊者之间的永恒斗争。,force,no
+The mid-season balance update,赛季中期平衡更新,1,1,subtitle,1,no,no,赛季中期平衡更新,force,no
+The one about Cryo Archive (Cont.),关于低温档案室（续）,1,1,subtitle,1,yes,no,关于低温档案室（续）,force,no
+The one about Cryo Archive Sponsored Kits.,关于低温档案室赞助包。,1,1,subtitle,1,yes,no,关于低温档案室赞助包。,force,no
+The one about Cryo Archive.,关于低温档案室。,1,1,subtitle,1,yes,no,关于低温档案室。,force,no
+The one about Grenade stacks.,手雷叠加层数调整。,1,1,subtitle,1,no,no,手雷叠加层数调整。,force,no
+The one about knives and bubble shields,关于匕首和气泡护盾,1,1,subtitle,1,no,no,关于匕首和气泡护盾,force,no
+The one about overflow items,关于溢出物品,1,1,subtitle,1,no,no,关于溢出物品,force,no
+The one about Rook.,关于鲁克。,1,1,subtitle,1,no,no,关于鲁克。,force,no
+The one about Sentinel Mastery Entries,关于哨兵精通条目,1,1,subtitle,1,no,no,关于哨兵精通条目,force,no
+The one about slide canceling,关于滑行取消,1,1,subtitle,1,no,no,关于滑行取消,force,no
+The one about the C.A.R.R.I protocol returning.,关于C.A.R.R.I.协议回归。,1,1,subtitle,1,no,no,关于C.A.R.R.I.协议回归。,force,no
+The one about the Warden Hunt,关于追猎看守者,1,1,subtitle,1,no,no,关于追猎看守者,force,no
+The one about the WSTR and Cryo Archive Sponsored Kits.,关于WSTR和低温档案室赞助包。,1,1,subtitle,1,no,no,关于WSTR和低温档案室赞助包。,force,no
+The one where Rook escapes.,关于鲁克逃离。,1,1,subtitle,1,no,no,关于鲁克逃离。,force,no
+The one where the shadows move.,关于阴影移动。,1,1,subtitle,1,no,no,关于阴影移动。,force,no
+thermal optic,热能瞄具,1,1,strong,1,no,no,热能瞄具,force,no
+Tips to help you find your footing on the surface!,一些帮你快速上手的小贴士！,1,1,subtitle,1,no,no,一些帮你快速上手的小贴士！,force,no
+"tomorrow, March 20",3月21日,1,1,strong,1,no,no,3月21日,force,no
+"Toolkit, Stryder M1T Weapon Style (Platinum I)",工具包，风行者M1T武器风格（白金I）,1,1,strong,1,yes,no,工具包，风行者M1T武器风格（白金I）,force,no
+Tune into the Tau Ceti Cup on March 14,敬请关注3月15日的天仓五杯,1,1,title,1,no,no,敬请关注3月15日的天仓五杯,force,no
+"Two volumes, 42 tracks, all vibes: available now",氛围拉满的两卷原声带，42首曲目：现已推出,1,1,subtitle,1,yes,no,氛围拉满的两卷原声带，42首曲目：现已推出,force,no
+UI & UX,UI和UX,1,1,h2,1,yes,no,UI和UX,force,no
+UP FIRST... Important dates and our first playtest 📆,首先……关于游戏首测的重要日子📆,1,1,h2,1,no,no,首先……关于游戏首测的重要日子📆,force,no
+Vandal’s,暴徒,1,1,strong,1,no,no,暴徒,force,no
+Vault and Armory,保险库和军械库,1,1,h2,1,yes,no,保险库和军械库,force,no
+Vector grenades,矢量手雷,1,1,strong,1,no,no,矢量手雷,force,no
+Vector rounds,矢量弹,1,1,strong,1,no,no,矢量弹,force,no
+vibes and gunplay action,超爽动作和枪战,1,1,strong,1,no,no,超爽动作和枪战,force,no
+"Vision of Marathon: New Gameplay, Dev Insights, & More",展望《失落星船：马拉松》——全新游戏玩法及开发者见解等,1,1,title,1,no,no,展望《失落星船：马拉松》——全新游戏玩法及开发者见解等,force,no
+Want to see more gameplay footage directly from your favorite creators?,想直接从你喜欢的创作者那里看到更多的游戏片段吗？,1,1,strong,1,no,no,想直接从你喜欢的创作者那里看到更多的游戏片段吗？,force,no
+Want to see the full show?,想看完整内容吗？,1,1,strong,1,no,no,想看完整内容吗？,force,no
+Want to sign up for your chance to join the first playtest?,想报名参加第一次游戏测试吗？,1,1,strong,1,no,no,想报名参加第一次游戏测试吗？,force,no
+Watch the Launch Gameplay Trailer,观看发布游戏预告片,1,1,h1,1,no,no,观看发布游戏预告片,force,no
+Watching The Slam: Twitch Drops,观看压力测试：Twitch掉落,1,1,h2,1,no,no,观看压力测试：Twitch掉落,force,no
+Weapon chips,武器芯片,1,1,strong,1,no,no,武器芯片,force,no
+Weapons and Equipment,武器和装备,1,1,h1,1,no,no,武器和装备,force,no
+Welcome to Season 2,欢迎来到第2赛季,1,1,title,1,yes,no,欢迎来到第2赛季,force,no
+"We’re bringing the latest and greatest, straight to you",第一时间为你呈现最新、最优质的内容,1,1,subtitle,1,no,no,第一时间为你呈现最新、最优质的内容,force,no
+We’re opening up the doors and letting everyone in from February 26 – March 2.,我们将在2月27日至3月3日开放服务器，欢迎所有玩家进入游戏体验。,1,1,subtitle,1,no,no,我们将在2月27日至3月3日开放服务器，欢迎所有玩家进入游戏体验。,force,no
+What comes next?,接下来呢？,1,1,h2,1,no,no,接下来呢？,force,no
+What is different from the Server Slam?,正式版与服务器压力测试版相比有哪些不同？,1,1,h3,1,no,no,正式版与服务器压力测试版相比有哪些不同？,force,no
+What Makes This A Server Slam,什么是服务器压力测试？,1,1,h2,1,no,no,什么是服务器压力测试？,force,no
+What You Will Experience During The Slam,在压力测试期间，你能体验到什么？,1,1,h2,1,no,no,在压力测试期间，你能体验到什么？,force,no
+What You’ll Play During the Server Slam,服务器压力测试中可游玩的内容,1,1,h1,1,no,no,服务器压力测试中可游玩的内容,force,no
+When do I get my rewards?,我什么时候能拿到奖励？,1,1,h3,1,no,no,我什么时候能拿到奖励？,force,no
+"When do Outpost, Cryo Archive, and Ranked mode go live?",前哨、低温档案室和排名模式何时上线？,1,1,h3,1,no,no,前哨、低温档案室和排名模式何时上线？,force,no
+When does Marathon launch?,《失落星船：马拉松》何时发布？,1,1,h3,1,no,no,《失落星船：马拉松》何时发布？,force,no
+When is the Server Slam again?,服务器压力测试的具体时间是什么时候？,1,1,h3,1,no,no,服务器压力测试的具体时间是什么时候？,force,no
+When will I get my Twitch Drops from watching during the Server Slam?,我在服务器压力测试期间通过观看直播获得的Twitch掉落何时到账？,1,1,h3,1,no,no,我在服务器压力测试期间通过观看直播获得的Twitch掉落何时到账？,force,no
+Where can I play?,在哪里可以游玩？,1,1,h3,1,no,no,在哪里可以游玩？,force,no
+Which platforms can I play Marathon on?,我可以在哪些平台游玩《失落星船：马拉松》？,1,1,h3,1,no,no,我可以在哪些平台游玩《失落星船：马拉松》？,force,no
+Which regions and languages are supported?,支持哪些地区和语言？,1,1,h3,1,no,no,支持哪些地区和语言？,force,no
+Why is it called a “Server Slam”?,为什么叫“服务器压力测试”？,1,1,h3,1,no,no,为什么叫“服务器压力测试”？,force,no
+will not carry over,不会继承,1,1,strong,1,no,no,不会继承,force,no
+"Will there be bugs, queues, or downtime?",会有程序错误、登录排队或服务器关闭的情况吗？,1,1,h3,1,no,no,会有程序错误、登录排队或服务器关闭的情况吗？,force,no
+Will there be login queues occur at launch? How do I check server status?,游戏发布当天会出现排队登录的情况吗？如何查看服务器状态？,1,1,h3,1,no,no,游戏发布当天会出现排队登录的情况吗？如何查看服务器状态？,force,no
+Will there be new Twitch Drops at launch? How do I earn them?,游戏发布时还会有新的Twitch掉落吗？如何获得？,1,1,h3,1,no,no,游戏发布时还会有新的Twitch掉落吗？如何获得？,force,no
+world,马拉松世界,1,1,strong,1,no,no,马拉松世界,force,no
+you,你,1,1,strong,1,no,no,你,force,no
+– Frost Mine,——冰霜地雷,1,1,strong,1,no,no,——冰霜地雷,force,no
+– Signal Flares,——信号弹,1,1,strong,1,no,no,——信号弹,force,no
+– Vector Grenade,——矢量手雷,1,1,strong,1,no,no,——矢量手雷,force,no
+Zones,区域,13,2,h1|h2,13,no,yes,区域 | 综合,force,no
+Combat,战斗,12,2,h1|h2,12,no,yes,战斗 | 用户界面和体验,force,no
+Weapons,武器,9,3,h1|h2|h3,9,no,yes,军械库 | 武器,force,no
+Dire Marsh,恐怖沼泽,3,1,h3,3,yes,yes,定制《失落星船：马拉松》夹克 | 恐怖沼泽,force,no
+March 5 at 10 AM PT,北京时间3月6日凌晨2点,2,1,strong,1,no,yes,3月6日凌晨2点 | 北京时间3月6日凌晨2点,force,no
+Perimeter,外围区域,2,2,h3|strong,2,yes,yes,REKT Twitch频道 | 外围区域,force,no
+Combat,用户界面和体验,1,1,h2,1,no,yes,战斗 | 用户界面和体验,force,no
+Dire Marsh,定制《失落星船：马拉松》夹克,1,1,strong,1,yes,yes,定制《失落星船：马拉松》夹克 | 恐怖沼泽,force,no
+June 2 to June 9,6月3日至10日,1,1,strong,1,no,yes,* | 6月3日至10日 | 6月3日至6月10日,force,no
+June 2 to June 9,*,1,1,strong,1,no,yes,* | 6月3日至10日 | 6月3日至6月10日,force,no
+June 2 to June 9,6月3日至6月10日,1,1,strong,1,no,yes,* | 6月3日至10日 | 6月3日至6月10日,force,no
+Marathon Collector’s Edition available now,《失落星船：马拉松》典藏版 现已推出,1,1,h1,1,yes,yes,《失落星船：马拉松》典藏版 | 《失落星船：马拉松》典藏版 现已推出,force,no
+Marathon Collector’s Edition available now,《失落星船：马拉松》典藏版,1,1,strong,1,yes,yes,《失落星船：马拉松》典藏版 | 《失落星船：马拉松》典藏版 现已推出,force,no
+March 5 at 10 AM PT,3月6日凌晨2点,1,1,strong,1,no,yes,3月6日凌晨2点 | 北京时间3月6日凌晨2点,force,no
+Perimeter,REKT Twitch频道,1,1,strong,1,yes,yes,REKT Twitch频道 | 外围区域,force,no
+thank you,感谢,1,1,strong,1,no,yes,感谢 | 真诚感谢,force,no
+thank you,真诚感谢,1,1,strong,1,no,yes,感谢 | 真诚感谢,force,no
+Weapons,军械库,1,1,h3,1,no,yes,军械库 | 武器,force,no
+Zones,综合,1,1,h2,1,no,yes,区域 | 综合,force,no

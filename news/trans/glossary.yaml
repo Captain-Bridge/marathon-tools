@@ -1,0 +1,26 @@
+version: 1
+entries:
+  # `strategy: preserve` 会在翻译前把术语保护起来，翻译后恢复原文。
+  - source: Marathon
+    target: Marathon
+    strategy: preserve
+    aliases: []
+    case_sensitive: false
+    notes: 游戏名通常先保留英文，后续可按你的站点风格调整。
+
+  # `strategy: force` 会在翻译前保护术语，翻译后强制替换成 target。
+  # 你可以把这里逐步填成自己认可的社区译名或站内统一译名。
+  # - source: Runner
+  #   target: 你认可的译名
+  #   strategy: force
+  #   aliases:
+  #     - Runners
+  #   case_sensitive: false
+  #   notes: 角色职业/身份称呼
+
+  # - source: UESC
+  #   target: UESC
+  #   strategy: preserve
+  #   aliases: []
+  #   case_sensitive: true
+  #   notes: 阵营缩写，通常建议保留

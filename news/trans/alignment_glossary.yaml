@@ -1,0 +1,1811 @@
+version: 1
+source: C:\codes\marathon_tools\news\sample-marathon-news-translation-alignment.json
+pair_count: 40
+generated_entries: 301
+entries:
+- source: Accu-Sight Lens (Thermals)
+  target: 精瞄镜片（热成像）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Accu-Sight Optic
+  target: 精瞄瞄具
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Air-Cooled Chamber
+  target: 风冷弹膛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Alarmist
+  target: 警报主义者
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Alarmist Chip
+  target: 警报主义者芯片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: AMMO
+  target: 弹药
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Amplify
+  target: 增幅
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Armory
+  target: 军械库
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=5
+- source: ARMORY & BARTERING
+  target: 军械库与交换
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Assault Shields (LMG Shield mods)
+  target: 突击护盾（轻机枪护盾模组）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Background Process
+  target: 后台进程
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Balanced Belt
+  target: 平衡弹链
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Balanced Mag
+  target: 平衡弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Balanced Payload
+  target: 平衡弹头
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: BFM
+  target: 弹道枪械弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Biotoxic Disinjector
+  target: 生物毒素分离注射器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Blindside
+  target: 制造盲点
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Blue Blood
+  target: 蓝血
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Bounty Hunter
+  target: 赏金猎人
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: BR33 Volley Rifle
+  target: BR33连发步枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Brain Freeze
+  target: 思维冻结
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Brain Freeze Chip
+  target: 思维冻结芯片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: BRRT
+  target: BRRT
+  strategy: preserve
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: BUILDCRAFTING
+  target: 配装
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Bully SMG
+  target: 恶霸冲锋枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Bungie Rewards [1.20] Felini Plush
+  target: Bungie奖励[1.20]费利尼毛绒玩具
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Bungie Rewards [1.20] Notorious T-Shirt
+  target: Bungie奖励[1.20]恶名远扬T恤
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: C.A.R.R.I Armory
+  target: C.A.R.R.I.军械库
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: C.A.R.R.I. Armory
+  target: C.A.R.R.I.军械库
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Castle Doctrine
+  target: 城堡原则
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: 'Castle Doctrine (Passive):'
+  target: 城堡原则（被动技能）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: CE Tactical Sidearm
+  target: 近战战术手枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Chaos Theory
+  target: 混沌理论
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Chips
+  target: 芯片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Clear-Eyed Lens
+  target: 清视镜片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Client Security
+  target: 客户端安全
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Cloudborn
+  target: 云裔
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Cloudfeather Belt
+  target: 云羽弹链
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Cloudfeather Chamber
+  target: 云羽弹膛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Codex
+  target: 百科
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=6
+- source: Codex Challenges
+  target: 百科挑战
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Cold Vigilance Scope
+  target: 冷峻警戒瞄准镜
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: COMBAT
+  target: 战斗
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Combat Mag
+  target: 战斗弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Compartmental Mag
+  target: 分舱弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Complex Control
+  target: 综合设施控制区
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Compression Chamber
+  target: 压缩弹膛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Connection Recovery
+  target: 连接恢复
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Contracts in the Cold... Plus Rewards
+  target: 寒冷合约…还有奖励
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Copperhead RF
+  target: 铜斑蛇速射
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Cores
+  target: 核心
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Cradle
+  target: 摇篮
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Cradle Evolution System
+  target: 摇篮进化系统
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Cradle Evolution system
+  target: 摇篮进化系统
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Cryo Archive
+  target: 低温档案室
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=7
+- source: Cryo Archive Increased Availability
+  target: 低温档案室开放频次提升
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Customization
+  target: 自定义
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: CyberAcme
+  target: 赛博艾克米
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=4
+- source: CyberAcme Commendations
+  target: 赛博艾克米嘉奖
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: D54 Battle Pistol
+  target: D54战斗手枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Darkness Descends on Tau Ceti IV
+  target: 暗夜降临天仓五IV
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Darksight Scopes
+  target: 暗视瞄准镜
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: DEATH IS THE FIRST STEP
+  target: 死亡是第一步
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Dedicated Server Networking
+  target: 专用服务器网络
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Defender System
+  target: 防御系统
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: 'Defender System (Prime Ability):'
+  target: 防御系统（主要技能）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Deluxe Arrival Cache (Blue)
+  target: 豪华欢迎储藏箱（蓝）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Destroyer
+  target: 毁灭者
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Dire Marsh (Day and Night)
+  target: 恐怖沼泽（白天和夜间）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Dire Marsh (Day)
+  target: 恐怖沼泽（白天）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Dire Marsh (Night)
+  target: 恐怖沼泽（夜间）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Dire Marsh and Night Marsh Availability
+  target: 恐怖沼泽与夜间沼泽的开放机制
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Drum Mag
+  target: 鼓式弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Duelist Lens (Thermals)
+  target: 决斗者镜片（热成像）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Dynamo
+  target: 动力核
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Echo Pulse
+  target: 回声脉冲
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Economic Security
+  target: 经济安全
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Eminent Domain
+  target: 征用权
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Eminent Domain (Prestige):'
+  target: 征用权（尊享）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Enhanced Arrival Cache (Green)
+  target: 强化欢迎储藏箱（绿）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Escalation in UESC Forces
+  target: UESC势力全面增兵
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Evasive Maneuvers
+  target: 机动规避：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Exceptions: LUX and SILK'
+  target: 例外：奢享币和SILK
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: EXFIL
+  target: 撤离
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Experimental Queues and Duos Queue
+  target: 实验队列与双人队列
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Extra Mag
+  target: 增容弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Eyes On Fire
+  target: 火眼金睛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Faction Progression
+  target: 阵营进度
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Faction Progression and Contracts
+  target: 阵营进度与合约
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Faction Progression Improvements
+  target: 阵营进度优化
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: FACTIONS & CONTRACTS
+  target: 阵营与合约
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Factions and progression
+  target: 阵营与进度
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Far Reach Optic (Rangefinder)
+  target: 远程瞄具（测距仪）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Fastload Mag
+  target: 速填弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Feather Mag
+  target: 羽毛弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: FIRST STEPS
+  target: 第一步
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Flashlights
+  target: 手电
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Frag Grenade
+  target: 破片手雷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Frost Mine
+  target: 冰霜地雷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Full-Auto Selector Prestige Mod
+  target: 全自动切换器尊享模组
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Gift 1 sub:'
+  target: 赠送订阅：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Gold III
+  target: 黄金III
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Head
+  target: 头盔
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Heat Grenade
+  target: 热量手雷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hi-Cap Chamber
+  target: 高容弹膛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hi-Cap Heat Sink
+  target: 高容散热器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hi-Cap Mag
+  target: 高容弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hi-Speed Mag
+  target: 高速弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hi-Velocity Payload
+  target: 高速弹头
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hi-Zoom Optic
+  target: 高缩放瞄具
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Hollow-Case Rounds
+  target: 空心子弹
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Immune Response
+  target: 免疫反应
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Impact HAR
+  target: 冲击重型突击步枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: In-Game Notices
+  target: 游戏内通知
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Insurance Plan
+  target: 保险计划
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Introduction to Marathon’s four zones (maps)
+  target: 马拉松的四个区域（地图）介绍
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Key Template Changes
+  target: 钥匙模板机制调整
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Keyboard Warrior
+  target: 键盘战士
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Kills
+  target: 档案徽标
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: KKV-9SD
+  target: KKV-9SD
+  strategy: preserve
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=2
+- source: LMG
+  target: 轻机枪
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: LMG (Belts)
+  target: 轻机枪（弹链）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Long Scope (Rangefinder)
+  target: 远程瞄准镜（测距仪）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Lower
+  target: 较低
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Magazines
+  target: 弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Magnum MC
+  target: 马格南巨级
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Map Events
+  target: 地图活动
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Marathon
+  target: 《失落星船：马拉松》
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Marathon Deluxe Edition
+  target: 《失落星船：马拉松》豪华版
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Marathon Development Team
+  target: 《失落星船：马拉松》开发团队
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Marathon Launch FAQ
+  target: 《失落星船：马拉松》发布常见问题解答
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Marathon Standard Edition
+  target: 《失落星船：马拉松》标准版
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Matchmaking
+  target: 匹配
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Med-Drone
+  target: 医疗无人机
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Mega Belt
+  target: 巨型弹链
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Mega Drive
+  target: 巨型驱动
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Menu Navigation
+  target: 菜单导航
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: MIDA
+  target: 米达
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=2
+- source: MidSight Optic
+  target: 中距瞄具
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Mini Jammer
+  target: 迷你干扰器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: MIPS Slug Converter Prestige mod
+  target: MIPS子弹转换器尊享模组
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Misriah 2442
+  target: 米斯利亚2442
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Neuro-Optic Lens (Variable Zoom)
+  target: 视神经镜片（可变倍率瞄具）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Night Marsh:'
+  target: 夜间沼泽：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: NIGHTFALL
+  target: NIGHTFALL
+  strategy: preserve
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=3
+- source: NIGHTFALL is Coming
+  target: 暮夜即将降临
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: noculation Kit
+  target: 接种套组
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Notorious Company
+  target: 恶名团伙
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: NuCaloric
+  target: 纽卡洛里
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Null-Grav Chamber
+  target: 零重力弹膛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Optic 1.4x
+  target: 瞄具1.4x
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Optics
+  target: 瞄准镜
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Optimal Prime
+  target: 最优主导
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Oracle Lens
+  target: 神谕镜片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Outpost
+  target: 前哨
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=4
+- source: Overrun
+  target: 奔袭
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Overview
+  target: 概览
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Pickpocket Drone
+  target: 窃贼无人机
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Pings
+  target: 标记
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Pistol
+  target: 手枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Pistols
+  target: 手枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Precision Rifle
+  target: 精密步枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Precision Rifles
+  target: 精密步枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Prey Tracker
+  target: 猎物追踪器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: 'Prey Tracker (Trait Ability):'
+  target: 猎物追踪器（特性技能）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Priority Contracts
+  target: 北京时间3月12日周四下午4点
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Profile Background
+  target: 档案背景
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Profile Emblem
+  target: 档案徽标
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Proximity Chat Toggle
+  target: 近距离聊天切换
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Railgun (Payload)
+  target: 电磁炮（弹头）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Railguns
+  target: 电磁炮
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Rangefinder Lens (Rangefinder)
+  target: 测距仪透镜（测距仪）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Rangefinder Optic (Rangefinder)
+  target: 测距仪瞄具（测距仪）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Rangefinder Optic 1.3x (Rangefinder)
+  target: 测距仪瞄具1.3x（测距仪）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Ranked
+  target: 排名模式
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Ranked Rewards for Season 1
+  target: 第1赛季的排名模式奖励
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Ranked Updates
+  target: 排名模式更新
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Rarities and Chips
+  target: 稀有度与芯片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Recon
+  target: 侦察
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Reloader Mag
+  target: 填装者弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Renaissance Runner
+  target: 复兴疾行者
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Reversal
+  target: 逆转回春
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Reversal (Enhanced):'
+  target: 逆转回春（强化）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Reverse Card
+  target: 反转卡
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Rifle/SMG
+  target: 步枪/冲锋枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Rifles
+  target: 步枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Riot Barricade
+  target: 防暴路障
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Rook
+  target: 鲁克
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Rook Update
+  target: 鲁克调整更新
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Rorschach Test
+  target: 墨迹测试
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shell – Assassin
+  target: 疾行者外壳 – 刺客
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shell – Destroyer
+  target: 疾行者外壳 – 毁灭者
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shell – Recon
+  target: 疾行者外壳 – 侦察
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shell – Thief
+  target: 疾行者外壳 – 盗贼
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shell – Triage
+  target: 疾行者外壳 – 救援
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shell – Vandal
+  target: 疾行者外壳 – 暴徒
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Runner Shells
+  target: 疾行者外壳
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Runner shells
+  target: 疾行者外壳
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Runner Shells: Tools for Survival'
+  target: 疾行者外壳：生存工具
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Runners and Implants
+  target: 疾行者和植入物
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Scavenger Mode – Rook
+  target: 拾荒者模式 – 鲁克
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Scoring and Contracts
+  target: Twitch掉落
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Scrapyard
+  target: 废料场
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Scrapyard Chip
+  target: 废料场芯片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Seasons Overview
+  target: 赛季概览
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Secure Sponsored Kits for Season 2
+  target: 领取你的第2赛季专属赞助包
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: See Ya
+  target: 告别
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Sekiguchi Genetics
+  target: 关口基因
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Sentinel
+  target: 哨兵
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Shortwave Scout Optic (Thermals)
+  target: 短波侦察瞄具（热成像）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Shotgun
+  target: 霰弹枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Shotguns
+  target: 霰弹枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Signal Flares
+  target: 信号弹
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Signal Jammer
+  target: 信号干扰器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Signal Mask
+  target: 信号遮蔽
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Slick Mag
+  target: 顺滑弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: SMGs
+  target: 冲锋枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Snare Mine
+  target: 陷阱地雷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: 'Snare Mine (Tactical Ability):'
+  target: 陷阱地雷（战术技能）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Snare Mines
+  target: 陷阱地雷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Sniper
+  target: 狙击枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Snipers
+  target: 狙击枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Social
+  target: 社交
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Social Media
+  target: 社交媒体
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: SP Scope (Thermal)
+  target: 狙击瞄准镜（热成像）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Spend in the C.A.R.R.I. Armory
+  target: 在C.A.R.R.I.军械库中使用
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Splash Guard
+  target: 溅射防护
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Sponsored Survival
+  target: 赞助生存
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Stabilizing Mag
+  target: 稳定弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Stack Overflow
+  target: 堆叠溢出
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Standard Arrival Cache
+  target: 标准欢迎储藏箱
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Stay Together
+  target: 团结
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Steady Mag
+  target: 稳固弹匣
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Steady Rounds
+  target: 稳固子弹
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Submachine Guns
+  target: 微型冲锋枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: SURVIVAL
+  target: 生存
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Tapered Heat Sink
+  target: 锥形散热器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Teams
+  target: 团队
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: 'The Cradle:'
+  target: 摇篮：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Thermal Optic (Thermals)
+  target: 热能瞄具（热成像）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Thermal Scopes
+  target: 热成像瞄准镜
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Thief
+  target: 盗贼
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=3
+- source: Thruster
+  target: 推进器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Torso
+  target: 躯干
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Tox Injectors
+  target: 毒素注射
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Tracker Drone
+  target: 追踪无人机
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Trailblazer Kit
+  target: 开拓者套组
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: TRAVERSAL
+  target: 移动
+  strategy: force
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=1
+- source: Traxus
+  target: 特莱克斯
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Triage
+  target: 救援
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Triage Cloaking Device
+  target: 救援斗篷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Trigger Discipline
+  target: 扳机纪律
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Turbo Belt
+  target: 涡轮弹链
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Turbo Chamber
+  target: 涡轮弹膛
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Turbo Drive
+  target: 涡轮驱动
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Twin Tap
+  target: 双击
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: TwinScope Optic (Variable)
+  target: 双镜瞄具（变体）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Twitch Drop Rewards
+  target: Twitch掉落奖励
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Twitch Sponsored Kit
+  target: Twitch赞助包
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: UESC
+  target: UESC
+  strategy: preserve
+  aliases: []
+  case_sensitive: true
+  notes: Imported from alignment sample; occurrences=2
+- source: unique Codex rewards
+  target: 独特的百科奖励
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Update 1.0.6 is Live
+  target: 更新1.0.6已上线
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Update 1.0.9 Balance Changes
+  target: 更新1.0.9游戏平衡性调整
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: V22 Volt Thrower
+  target: V22伏特放射器
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: V66 Lookout
+  target: V66瞭望
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: V75 SCAR
+  target: V75 SCAR
+  strategy: preserve
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Vamprea
+  target: 定制《失落星船：马拉松》夹克
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Vandal
+  target: 暴徒
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Vault Breaker
+  target: 破库者
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Vaults of the Marathon
+  target: 马拉松号保险库
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Vector Grenade
+  target: 矢量手雷
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Vector Rounds
+  target: 矢量弹
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: ViDoc Highlights
+  target: 视频记录亮点
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Vigilant Lens
+  target: 警戒镜片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Volt Array (Volt Battery Ammo)
+  target: 伏特阵列（伏特电池弹药）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Volt Cell (Fusion Ammo)
+  target: 伏特电芯（融合弹药）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Watch for 1 hour
+  target: 观看1小时
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Watch for 15 minutes:'
+  target: 观看15分钟：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Watch for 2 hours
+  target: 观看2小时
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Watch for 3 hours
+  target: 观看3小时
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Watch for 30 minutes
+  target: 观看30分钟
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Weapon Ammo
+  target: 武器弹药
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Weapon Mods
+  target: 武器模组
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Weapon Rewards
+  target: 武器奖励
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Weapon Skin
+  target: 武器皮肤
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Weapon Skin (Style):'
+  target: 武器皮肤（风格）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Weapon Sticker
+  target: 武器贴纸
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: Weapons, Mods, and Chips
+  target: 武器、模组与芯片
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: Wellness Beacon
+  target: 健康信标
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: 'Wellness Beacon (Deluxe):'
+  target: 健康信标（豪华）：
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: XBOX Series X|S
+  target: Xbox Series X|S
+  strategy: preserve
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=2
+- source: – Alarmist (all rarities)
+  target: ——警报主义者（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Brain Freeze (Superior rarity only)
+  target: ——思维冻结（仅限卓越稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Buffer Overflow (all rarities)
+  target: ——缓存溢出（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – D54 Battle Pistol
+  target: ——D54战斗手枪
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Exterminator (all rarities)
+  target: ——灭绝者（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Ghillie Suit (all rarities)
+  target: ——吉利服（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – KKV-9SD
+  target: ——KKV-9SD
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Refocuser (all rarities)
+  target: ——重新聚焦（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Scrapyard (all rarities)
+  target: ——废料场（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1
+- source: – Urgent Care (all rarities)
+  target: ——紧急护理（所有稀有度）
+  strategy: force
+  aliases: []
+  case_sensitive: false
+  notes: Imported from alignment sample; occurrences=1

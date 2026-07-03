@@ -1,0 +1,12 @@
+{
+  "deepseek": {
+    "api_key": "your-deepseek-api-key",
+    "model": "deepseek-v4-flash",
+    "base_url": "https://api.deepseek.com"
+  },
+  "openai": {
+    "api_key": "your-openai-api-key",
+    "model": "",
+    "base_url": "https://api.openai.com/v1"
+  }
+}

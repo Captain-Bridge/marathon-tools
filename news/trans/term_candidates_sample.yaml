@@ -1,0 +1,204 @@
+source_root: C:\codes\myblog\source\news\articles
+article_count: 1
+candidate_count: 97
+candidates:
+- term: UESC
+  kind: acronym
+  count: 26
+  articles:
+  - welcome-season-2
+- term: Season 2
+  kind: phrase
+  count: 25
+  articles:
+  - welcome-season-2
+- term: Dire Marsh
+  kind: phrase
+  count: 10
+  articles:
+  - welcome-season-2
+- term: Night Marsh
+  kind: phrase
+  count: 10
+  articles:
+  - welcome-season-2
+- term: Season 1
+  kind: phrase
+  count: 7
+  articles:
+  - welcome-season-2
+- term: ADS
+  kind: acronym
+  count: 6
+  articles:
+  - welcome-season-2
+- term: MIDA
+  kind: acronym
+  count: 6
+  articles:
+  - welcome-season-2
+- term: VIP
+  kind: acronym
+  count: 6
+  articles:
+  - welcome-season-2
+- term: KKV
+  kind: acronym
+  count: 5
+  articles:
+  - welcome-season-2
+- term: SMG
+  kind: acronym
+  count: 5
+  articles:
+  - welcome-season-2
+- term: June 2
+  kind: phrase
+  count: 4
+  articles:
+  - welcome-season-2
+- term: CPU
+  kind: acronym
+  count: 3
+  articles:
+  - welcome-season-2
+- term: Open Play Week
+  kind: phrase
+  count: 3
+  articles:
+  - welcome-season-2
+- term: PlayStation 5
+  kind: phrase
+  count: 3
+  articles:
+  - welcome-season-2
+- term: Priority Contracts
+  kind: phrase
+  count: 3
+  articles:
+  - welcome-season-2
+- term: PVE
+  kind: acronym
+  count: 3
+  articles:
+  - welcome-season-2
+- term: Tau Ceti IV
+  kind: phrase
+  count: 3
+  articles:
+  - welcome-season-2
+- term: Xbox Series X
+  kind: phrase
+  count: 3
+  articles:
+  - welcome-season-2
+- term: BR33
+  kind: acronym
+  count: 2
+  articles:
+  - welcome-season-2
+- term: BRRT
+  kind: acronym
+  count: 2
+  articles:
+  - welcome-season-2
+- term: Chips Season 2
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: Duos Queue
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: In Season 2
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: June 9
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: KKV-9SD
+  kind: acronym
+  count: 2
+  articles:
+  - welcome-season-2
+- term: NuCaloric
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: QoL
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: Sentinel's
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: The Anomaly
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: WEAVEworms
+  kind: phrase
+  count: 2
+  articles:
+  - welcome-season-2
+- term: Alarmist Chip
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Alien Alloys
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Battle Pistol
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Biolens Seeds
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: BR33 Volley Rifle
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Brain Freeze Chip
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: BRRT SMG
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Castle Doctrine
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Complex Control
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
+- term: Complex Control The UESC
+  kind: phrase
+  count: 1
+  articles:
+  - welcome-season-2
