@@ -1,0 +1,5 @@
+{
+    "model_file_location": "RealESRGAN_x4plus.pth",
+    "framework": "Pytorch",
+    "task": "other"
+}

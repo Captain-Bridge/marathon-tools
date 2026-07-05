@@ -31,7 +31,24 @@ Thumbs.db
 
 # === 输入源文件（不应上传）===
 audio_cut/input/
+img2svg/input/
+img_cut/input/
+SISR/input/
 
-# === 输出目录 ===
+# === 输出目录（生成产物，不应上传）===
 audio_cut/outputs/
+img2svg/output/
+img2svg/svgs/
 img_cut/output/
+img_axis/outputs/
+SISR/output/
+
+# === ONNX 模型文件（大文件，需自行下载）===
+*.onnx
+
+# === 视频/音频格式（大型二进制文件）===
+*.mkv
+*.mp4
+*.mov
+*.avi
+*.webm

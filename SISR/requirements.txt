@@ -1,0 +1,10 @@
+# SISR - single image super resolution dependencies
+# pip install -r requirements.txt
+
+numpy>=1.24
+Pillow>=10.0
+
+# ONNX Runtime with DirectML (GPU acceleration for AMD/NVIDIA/Intel on Windows)
+# If pip cannot find onnxruntime-directml, download the .whl manually from:
+# https://pypi.org/project/onnxruntime-directml/
+onnxruntime-directml>=1.17,<1.20
