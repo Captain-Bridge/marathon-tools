@@ -1,14 +1,16 @@
 # Marathon Tools
 
-Bungie《马拉松》（Marathon）相关的工具集合，涵盖图像处理、OCR 识别、音频处理、新闻抓取与翻译等。
+Bungie《马拉松》（Marathon）相关的工具集合，涵盖图像处理、OCR 识别、超分辨率、音频处理、新闻抓取与翻译等。
 
 ## 目录结构
 
 ```
 marathon_tools/
 ├── OCR/                  # 中文 OCR 文字识别工具
+├── SISR/                 # 图像超分辨率（Real-ESRGAN + ONNX/DirectML）
 ├── audio_cut/            # 音频/视频静音裁剪
 ├── img2svg/              # 图片转 AVG JSON + SVG 矢量
+├── img_axis/             # 图片坐标定位器（地图 POI 标记）
 ├── img_cut/              # 图片批量裁剪
 ├── news/                 # Marathon 新闻抓取与翻译管线
 │   ├── src/              # 抓取脚本
@@ -42,6 +44,25 @@ python app.py
 
 ---
 
+### SISR — 图像超分辨率
+
+基于 Real-ESRGAN + ONNX Runtime + DirectML 的超分辨率工具，支持 AMD/NVIDIA/Intel GPU 加速。
+
+- 4× 和 2× 两种放大倍率
+- 分块处理 + feather 缝合，大图不爆显存
+- GPU 不可用时自动回退 CPU
+
+```bash
+cd SISR
+pip install -r requirements.txt
+# 需先手动下载 ONNX 模型到 models/ 目录
+python -m src.main -i input/your_photo.jpg
+```
+
+详见 [SISR/README.md](SISR/README.md)
+
+---
+
 ### img2svg — 图片转 SVG 矢量
 
 将深色背景、浅色前景的简单图标/图形转换为 AVG JSON 及 SVG 文件。
@@ -59,6 +80,25 @@ python img2svg.py input --recursive        # 递归处理
 ```
 
 详见 [img2svg/README.md](img2svg/README.md)
+
+---
+
+### img_axis — 图片坐标定位器
+
+在地图上点击标记 POI 像素坐标的桌面工具。
+
+- tkinter 图形界面，支持滚轮缩放、拖拽平移
+- SVG 图标标记（从 `icons/poi-icons.json` 加载配置）
+- 每个标记可附带标题、描述和来源
+- Ctrl+Z 撤销 / Ctrl+Y 重做，Ctrl+S 导出为 JSON
+
+```bash
+cd img_axis
+pip install Pillow pyperclip cairosvg
+python img_axis.py
+```
+
+详见 [img_axis/README.md](img_axis/README.md)
 
 ---
 
@@ -163,7 +203,9 @@ pip install -r requirements.txt
 | 模块 | 依赖 |
 |------|------|
 | OCR | Python 3.x, Pillow, winrt, Tesseract（可选） |
+| SISR | Python 3.x, numpy, Pillow, onnxruntime-directml |
 | img2svg | Python 3.10+, opencv-python, numpy |
+| img_axis | Python 3.x, Pillow, pyperclip, cairosvg（可选） |
 | img_cut | Python 3.x, Pillow |
 | audio_cut | Python 3.x, numpy, ffmpeg |
 | news | Node.js |

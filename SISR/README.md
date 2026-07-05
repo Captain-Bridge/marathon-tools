@@ -19,13 +19,21 @@ pip install -r requirements.txt
 
 ### 2. 获取模型
 
-需要手动下载 Real-ESRGAN x4plus 的 ONNX 模型文件，放到 `models/realesrgan_x4plus.onnx`。
+需要手动下载 Real-ESRGAN 的 ONNX 模型文件，放到 `models/` 目录下。
 
-**推荐来源（浏览器打开下载）：**
+**已内置模型：**
+
+| 模型文件 | 倍率 | 说明 |
+|----------|------|------|
+| `Real-ESRGAN-x4plus.onnx` | 4× | 通用超分，擅长处理 JPEG 压缩、模糊、噪声 |
+| `Real-ESRGAN_x2plus.onnx` | 2× | 轻量超分，速度更快 |
+
+> 如果缺少模型文件，请从以下来源下载：
 
 | 来源 | 说明 |
 |------|------|
 | [HuggingFace — shm007/Real-ESRGAN-x4plus-onnx](https://huggingface.co/shm007/Real-ESRGAN-x4plus-onnx) | 知名社区 ONNX 导出 |
+| [HuggingFace — shm007/Real-ESRGAN-x2plus-onnx](https://huggingface.co/shm007/Real-ESRGAN-x2plus-onnx) | x2plus 社区 ONNX 导出 |
 | [GitHub — xinntao/Real-ESRGAN Releases](https://github.com/xinntao/Real-ESRGAN/releases) | 官方 .pth 权重（需自行转换） |
 
 > 如果你有代理或 VPN 能访问 HuggingFace，推荐第一个。否则可以尝试在搜索引擎搜索
@@ -37,7 +45,7 @@ pip install -r requirements.txt
 # 输入图像放到 input/ 目录
 python -m src.main -i input/your_photo.jpg
 
-# 输出默认保存到 output/your_photo_4x.png
+# 输出默认保存到 output/x4/your_photo_4x.png 或 output/x2/your_photo_2x.png
 ```
 
 ## 命令行参数
@@ -46,7 +54,7 @@ python -m src.main -i input/your_photo.jpg
 |------|------|--------|
 | `-i, --input` | 输入图像路径 | (必填) |
 | `-o, --output` | 输出图像路径 | `output/<文件名>_4x.png` |
-| `-m, --model` | ONNX 模型路径 | `models/realesrgan_x4plus.onnx` |
+| `-m, --model` | ONNX 模型路径 | `models/Real-ESRGAN-x4plus.onnx` |
 | `--tile-size` | tile 边长 (像素) | `256` |
 | `--overlap` | tile 重叠像素 | `32` |
 | `--cpu` | 强制使用 CPU | 关闭 |
